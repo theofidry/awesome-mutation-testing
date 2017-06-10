@@ -1,1 +1,20 @@
 # mutation-testing
+
+* Go
+  * https://github.com/zimmski/go-mutesting
+  * https://github.com/darkhelmet/manbearpig
+  * https://github.com/kisielk/mutator
+  * https://github.com/StefanSchroeder/Golang-Mutation-testing
+* Java
+  * https://github.com/hcoles/pitest
+* JavaScript
+  * https://github.com/lazywithclass/mutagen
+  * https://github.com/stryker-mutator/stryker
+* OSX
+  * https://github.com/mull-project/mull
+* Php
+  * https://github.com/humbug/humbug
+* Python
+  * https://github.com/sixty-north/cosmic-ray
+* Ruby
+  * https://github.com/mbj/mutant
