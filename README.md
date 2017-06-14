@@ -4,6 +4,8 @@ As of now this repository is used to keep track of the current mutation testing 
 
 ### Existing libraries
 
+* C/C++
+  * https://github.com/mull-project/mull
 * Go
   * https://github.com/zimmski/go-mutesting
   * https://github.com/darkhelmet/manbearpig
@@ -14,9 +16,7 @@ As of now this repository is used to keep track of the current mutation testing 
 * JavaScript
   * https://github.com/lazywithclass/mutagen
   * https://github.com/stryker-mutator/stryker
-* C/C++
-  * https://github.com/mull-project/mull
-* Php
+* PHP
   * https://github.com/humbug/humbug
 * Python
   * https://github.com/sixty-north/cosmic-ray
