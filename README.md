@@ -21,4 +21,4 @@ As of now this repository is used to keep track of the current mutation testing 
 * Python
   * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray)
 * Ruby
-  * [mbj/mutant]https://github.com/mbj/mutant)
+  * [mbj/mutant](https://github.com/mbj/mutant)
