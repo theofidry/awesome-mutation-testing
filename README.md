@@ -14,7 +14,7 @@ As of now this repository is used to keep track of the current mutation testing 
 * JavaScript
   * https://github.com/lazywithclass/mutagen
   * https://github.com/stryker-mutator/stryker
-* OSX
+* C/C++
   * https://github.com/mull-project/mull
 * Php
   * https://github.com/humbug/humbug
