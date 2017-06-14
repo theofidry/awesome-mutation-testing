@@ -5,20 +5,20 @@ As of now this repository is used to keep track of the current mutation testing 
 ### Existing libraries
 
 * C/C++
-  * https://github.com/mull-project/mull
+  * [mull-project/mull](https://github.com/mull-project/mull)
 * Go
-  * https://github.com/zimmski/go-mutesting
-  * https://github.com/darkhelmet/manbearpig
-  * https://github.com/kisielk/mutator
-  * https://github.com/StefanSchroeder/Golang-Mutation-testing
+  * [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting)
+  * [darkhelmet/manbearpig](https://github.com/darkhelmet/manbearpig)
+  * [kisielk/mutator](https://github.com/kisielk/mutator)
+  * [StefanSchroeder/Golang-Mutation-testing](https://github.com/StefanSchroeder/Golang-Mutation-testing)
 * Java
-  * https://github.com/hcoles/pitest
+  * [hcoles/pitest](https://github.com/hcoles/pitest)
 * JavaScript
-  * https://github.com/lazywithclass/mutagen
-  * https://github.com/stryker-mutator/stryker
+  * [lazywithclass/mutagen](https://github.com/lazywithclass/mutagen)
+  * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker)
 * PHP
-  * https://github.com/humbug/humbug
+  * [humbug/humbug](https://github.com/humbug/humbug)
 * Python
-  * https://github.com/sixty-north/cosmic-ray
+  * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray)
 * Ruby
-  * https://github.com/mbj/mutant
+  * [mbj/mutant]https://github.com/mbj/mutant)
