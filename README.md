@@ -22,3 +22,9 @@ As of now this repository is used to keep track of the current mutation testing 
   * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray)
 * Ruby
   * [mbj/mutant](https://github.com/mbj/mutant)
+
+### Papers
+
+[An Analysis and Survey of the Development of Mutation Testing](http://www0.cs.ucl.ac.uk/staff/mharman/tse-mutation-survey.pdf)
+
+[Are Mutants a Valid Substitute for Real Faults in Software Testing?](https://homes.cs.washington.edu/~mernst/pubs/mutation-effectiveness-fse2014.pdf)
