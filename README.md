@@ -53,3 +53,7 @@ As of now this repository is used to keep track of the current mutation testing 
 ### Blogs/Posts
 
 * [Mutant Musings](https://github.com/tjchambers/mutant-musings)
+
+### Books
+
+* [Mutation Testing: Better Code by Making Bugs by Filip van Laenen](https://leanpub.com/mutationtesting)
