@@ -50,6 +50,8 @@ As of now this repository is used to keep track of the current mutation testing 
 * [Predicting Mutation Scores using Source Code and Test Suite Metrics](https://github.com/kevinjalbert/master-thesis)
 
 
+* [PropEr Testing](http://propertesting.com/)
+
 ### Blogs/Posts
 
 * [Mutant Musings](https://github.com/tjchambers/mutant-musings)
