@@ -27,6 +27,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [lazywithclass/cerebro](https://github.com/lazywithclass/cerebro)
 * PHP
   * [humbug/humbug](https://github.com/humbug/humbug)
+  * [infection/infection](https://github.com/infection)
 * Python
   * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray)
   * [boxed/mutmut](https://github.com/boxed/mutmut)
@@ -55,3 +56,4 @@ As of now this repository is used to keep track of the current mutation testing 
 ### Blogs/Posts
 
 * [Mutant Musings](https://github.com/tjchambers/mutant-musings)
+* [RailsConf 2017: How to Write Better Code Using Mutation Testing by John Backus](https://www.youtube.com/watch?v=uB7m9T7ymn8)
