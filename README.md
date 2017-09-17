@@ -2,6 +2,7 @@
 
 As of now this repository is used to keep track of the current mutation testing tools developed. In the future this may be extended to reference more materials such as research papers, videos & talks.
 
+Slack: https://mutation-testing.slack.com/
 
 ### Existing libraries
 
