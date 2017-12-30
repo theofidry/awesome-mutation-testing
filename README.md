@@ -61,3 +61,9 @@ As of now this repository is used to keep track of the current mutation testing 
 
 * [Mutant Musings](https://github.com/tjchambers/mutant-musings)
 * [RailsConf 2017: How to Write Better Code Using Mutation Testing by John Backus](https://www.youtube.com/watch?v=uB7m9T7ymn8)
+
+### Conferences
+
+- International Workshop on Mutation Analysis
+  - [MUTATION 2018, The 13th International Workshop on Mutation Analysis](https://mutation-workshop.github.io)
+  
