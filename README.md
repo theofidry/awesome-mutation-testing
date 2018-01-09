@@ -67,3 +67,8 @@ As of now this repository is used to keep track of the current mutation testing 
 - International Workshop on Mutation Analysis
   - [MUTATION 2018, The 13th International Workshop on Mutation Analysis](https://mutation-workshop.github.io)
 
+### Friendly resources
+
+[atodorov/mutation-testing-in-patterns](https://github.com/atodorov/mutation-testing-in-patterns)
+
+> Practical examples of software and testing patterns related to mutation testing http://mutation-testing-patterns.rtfd.io
