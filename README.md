@@ -11,6 +11,8 @@ As of now this repository is used to keep track of the current mutation testing 
 * C/C++
   * [mull-project/mull](https://github.com/mull-project/mull)
   * [mutate_cpp](https://github.com/nlohmann/mutate_cpp)
+* C#
+  * [infosupport/stryker-net](https://github.com/infosupport/stryker-net)
 * Closure
   * [ds2643/mutcl](https://github.com/ds2643/mutcl) [abandoned]
 * Go
@@ -69,6 +71,6 @@ As of now this repository is used to keep track of the current mutation testing 
 
 ### Friendly resources
 
-[atodorov/mutation-testing-in-patterns](https://github.com/atodorov/mutation-testing-in-patterns)
+- [atodorov/mutation-testing-in-patterns](https://github.com/atodorov/mutation-testing-in-patterns)
 
 > Practical examples of software and testing patterns related to mutation testing http://mutation-testing-patterns.rtfd.io
