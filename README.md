@@ -41,6 +41,9 @@ As of now this repository is used to keep track of the current mutation testing 
 * Ruby
   * [mbj/mutant](https://github.com/mbj/mutant)
   * [backus/mutest](https://github.com/backus/mutest)
+* Rust
+  * [apoelstra/halfsleep](https://github.com/apoelstra/halfsleep) [abandoned]
+  * [Geal/mutant](https://github.com/Geal/mutant) [abandoned]
 * Scala
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu)
 
