@@ -11,6 +11,8 @@ As of now this repository is used to keep track of the current mutation testing 
 * C/C++
   * [mull-project/mull](https://github.com/mull-project/mull)
   * [mutate_cpp](https://github.com/nlohmann/mutate_cpp)
+  * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki)
+    * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
 * C#
   * [infosupport/stryker-net](https://github.com/infosupport/stryker-net)
 * Closure
