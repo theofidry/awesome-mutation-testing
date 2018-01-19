@@ -24,6 +24,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [rudymatela/fitspec](https://github.com/rudymatela/fitspec)
 * Java/JVM
   * [hcoles/pitest](https://github.com/hcoles/pitest)
+  * [jeffoffutt/muJava](https://github.com/jeffoffutt/muJava) [abandoned]
   * [sqrlab/ConMAn](https://github.com/sqrlab/ConMAn) [abandoned]
   * [bulentrahimkazanci/Mutation-Testing](https://github.com/bulentrahimkazanci/Mutation-Testing) [abandoned]
 * JavaScript
