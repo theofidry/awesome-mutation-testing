@@ -46,7 +46,9 @@ As of now this repository is used to keep track of the current mutation testing 
   * [Geal/mutant](https://github.com/Geal/mutant) [abandoned]
 * Scala
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu)
-
+* Smalltalk
+  * [pavel-krivanek/mutalk](https://github.com/pavel-krivanek/mutalk)
+  
 ### Visualization Tool
 
 * [sqrlab/VisMAn](https://github.com/sqrlab/VisMAn)
