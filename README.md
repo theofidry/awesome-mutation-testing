@@ -15,6 +15,7 @@ As of now this repository is used to keep track of the current mutation testing 
     * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
   * [yuejia/Milu](https://github.com/yuejia/Milu) [abandoned]
     * [MILU: A Customizable, Runtime-Optimized Higher Order Mutation Testing Tool for the Full C Language](https://www.researchgate.net/publication/228609925_MILU_A_Customizable_Runtime-Optimized_Higher_Order_Mutation_Testing_Tool_for_the_Full_C_Language)
+  * [markus-kusano/CCMutator](https://github.com/markus-kusano/CCMutator) [abandoned]
 * C#
   * [infosupport/stryker-net](https://github.com/infosupport/stryker-net)
 * Closure
