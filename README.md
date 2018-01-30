@@ -53,8 +53,10 @@ As of now this repository is used to keep track of the current mutation testing 
 * Scala
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu)
 * Smalltalk
-  * [pavel-krivanek/mutalk](https://github.com/pavel-krivanek/mutalk)
-  
+  * [pavel-krivanek/mutalk](https://github.com/pavel-krivanek/mutalk) 
+* Other
+  * [agroce/universalmutator](https://github.com/agroce/universalmutator)
+
 ### Visualization Tool
 
 * [sqrlab/VisMAn](https://github.com/sqrlab/VisMAn)
