@@ -21,6 +21,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [yuejia/Milu](https://github.com/yuejia/Milu) [abandoned]
     * [MILU: A Customizable, Runtime-Optimized Higher Order Mutation Testing Tool for the Full C Language](https://www.researchgate.net/publication/228609925_MILU_A_Customizable_Runtime-Optimized_Higher_Order_Mutation_Testing_Tool_for_the_Full_C_Language)
   * [markus-kusano/CCMutator](https://github.com/markus-kusano/CCMutator) [abandoned]
+    * [CCmutator: A Mutation Generator for Concurrency Constructs in Multithreaded C/C++ Applications](http://www-bcf.usc.edu/~wang626/pubDOC/Kusano13CCmutator.pdf)
 * C#
   * [infosupport/stryker-net](https://github.com/infosupport/stryker-net)
 * Closure
