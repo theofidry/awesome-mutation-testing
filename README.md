@@ -23,7 +23,8 @@ As of now this repository is used to keep track of the current mutation testing 
   * [markus-kusano/CCMutator](https://github.com/markus-kusano/CCMutator) [abandoned]
 * C#
   * [infosupport/stryker-net](https://github.com/infosupport/stryker-net)
-* Closure
+* Clojure
+  * [mutant](https://github.com/jstepien/mutant)
   * [ds2643/mutcl](https://github.com/ds2643/mutcl) [abandoned]
 * Go
   * [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting)
