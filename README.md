@@ -36,6 +36,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [hcoles/pitest](https://github.com/hcoles/pitest)
   * [aliparsai/LittleDarwin](https://github.com/aliparsai/LittleDarwin)
     * [LittleDarwin: a Feature-Rich and ExtensibleMutation Testing Framework forLarge and Complex Java Systems](https://www.researchgate.net/publication/318223563_LittleDarwin_a_Feature-Rich_and_Extensible_Mutation_Testing_Framework_for_Large_and_Complex_Java_Systems)
+  * [metamutator](https://github.com/SpoonLabs/metamutator)
   * [jeffoffutt/muJava](https://github.com/jeffoffutt/muJava) [abandoned]
   * [sqrlab/ConMAn](https://github.com/sqrlab/ConMAn) [abandoned]
   * [bulentrahimkazanci/Mutation-Testing](https://github.com/bulentrahimkazanci/Mutation-Testing) [abandoned]
