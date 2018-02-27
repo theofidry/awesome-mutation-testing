@@ -24,7 +24,8 @@ As of now this repository is used to keep track of the current mutation testing 
     * [CCmutator: A Mutation Generator for Concurrency Constructs in Multithreaded C/C++ Applications](http://www-bcf.usc.edu/~wang626/pubDOC/Kusano13CCmutator.pdf)
 * C#
   * [infosupport/stryker-net](https://github.com/infosupport/stryker-net)
-* Closure
+* Clojure
+  * [mutant](https://github.com/jstepien/mutant)
   * [ds2643/mutcl](https://github.com/ds2643/mutcl) [abandoned]
 * Go
   * [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting)
