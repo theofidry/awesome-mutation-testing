@@ -8,6 +8,9 @@ As of now this repository is used to keep track of the current mutation testing 
 
 ### Existing libraries
 
+* Alloy
+  * [MuAlloy](https://github.com/kaiyuanw/MuAlloy)
+    * [MuAlloy papers](https://github.com/kaiyuanw/MuAlloy#publications)
 * C/C++
   * [mull-project/mull](https://github.com/mull-project/mull)
   * [mutate_cpp](https://github.com/nlohmann/mutate_cpp)
