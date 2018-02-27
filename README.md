@@ -20,6 +20,7 @@ As of now this repository is used to keep track of the current mutation testing 
     * [Faster mutation analysis via equivalence modulo states](http://sei.pku.edu.cn/%7Exiongyf04/papers/ISSTA17.pdf)
   * [yuejia/Milu](https://github.com/yuejia/Milu) [abandoned]
     * [MILU: A Customizable, Runtime-Optimized Higher Order Mutation Testing Tool for the Full C Language](https://www.researchgate.net/publication/228609925_MILU_A_Customizable_Runtime-Optimized_Higher_Order_Mutation_Testing_Tool_for_the_Full_C_Language)
+  * [dextool](https://github.com/joakim-brannstrom/dextool)
   * [markus-kusano/CCMutator](https://github.com/markus-kusano/CCMutator) [abandoned]
 * C#
   * [infosupport/stryker-net](https://github.com/infosupport/stryker-net)
