@@ -54,6 +54,7 @@ As of now this repository is used to keep track of the current mutation testing 
 * Python
   * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray)
   * [boxed/mutmut](https://github.com/boxed/mutmut)
+  * [xmutant.py](https://github.com/vrthra/xmutant.py)
   * [ds2643/mutpy](https://github.com/ds2643/mutpy) [abandoned]
 * Ruby
   * [mbj/mutant](https://github.com/mbj/mutant)
