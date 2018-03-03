@@ -87,10 +87,16 @@ As of now this repository is used to keep track of the current mutation testing 
 
 * [PropEr Testing](http://propertesting.com/)
 
-### Blogs/Posts
+### Blogs/Posts/Videos
 
 * [Mutant Musings](https://github.com/tjchambers/mutant-musings)
-* [RailsConf 2017: How to Write Better Code Using Mutation Testing by John Backus](https://www.youtube.com/watch?v=uB7m9T7ymn8)
+* [RailsConf 2017: How to Write Better Code Using Mutation Testing • John Backus](https://www.youtube.com/watch?v=uB7m9T7ymn8)
+* [FOSDEM 2017: Mutation Testing: Leaving the Stone Age • 
+Alex Denisov
+](https://www.youtube.com/watch?v=YEgiyiICkpQ)
+* [GOTO 2015: Mutation Testing in Python • Austin Bingham](https://www.youtube.com/watch?v=jwB3Nn4hR1o)
+* [Jfokus 2016: From jUnit to Mutation-Testing • Sven Ruppert](https://www.youtube.com/watch?v=9yG1c9Crnbk)
+
 
 ### Conferences
 
