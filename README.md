@@ -28,6 +28,8 @@ As of now this repository is used to keep track of the current mutation testing 
 * Clojure
   * [mutant](https://github.com/jstepien/mutant)
   * [ds2643/mutcl](https://github.com/ds2643/mutcl) [abandoned]
+* Elexir
+  * [JordiPolo/mutation](https://github.com/JordiPolo/mutation)
 * Go
   * [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting)
   * [darkhelmet/manbearpig](https://github.com/darkhelmet/manbearpig) [abandoned]
