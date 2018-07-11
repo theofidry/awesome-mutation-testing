@@ -19,6 +19,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [accmut](https://github.com/wangbo15/accmut)
     * [Faster mutation analysis via equivalence modulo states](http://sei.pku.edu.cn/%7Exiongyf04/papers/ISSTA17.pdf)
   * [MUSIC](https://github.com/swtv-kaist/MUSIC)
+    * [MUSIC: Mutation Analysis Tool with High Configurability and Extensibility](http://swtv.kaist.ac.kr/publications/music-mutation18.pdf)
   * [yuejia/Milu](https://github.com/yuejia/Milu) [abandoned]
     * [MILU: A Customizable, Runtime-Optimized Higher Order Mutation Testing Tool for the Full C Language](https://www.researchgate.net/publication/228609925_MILU_A_Customizable_Runtime-Optimized_Higher_Order_Mutation_Testing_Tool_for_the_Full_C_Language)
   * [dextool](https://github.com/joakim-brannstrom/dextool)
