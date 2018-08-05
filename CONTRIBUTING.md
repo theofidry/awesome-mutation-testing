@@ -1,0 +1,1 @@
+Feel free to open a pull request to suggest a new resource (paper, video, blogpost) link or a new mutation testing framework. The links & review process are handled manually for now but the format may change in the future depending of the activity & needs of the users.
