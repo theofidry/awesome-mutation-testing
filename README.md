@@ -8,6 +8,16 @@ As of now this repository is used to keep track of the current mutation testing 
 
 [Slack Invite](https://mutation-testing-slack.herokuapp.com/)
 
+### Contents
+
+1. [Existing libraries](#existing-libraries)
+1. [Visualization Tool](#visualization-tool)
+1. [Papers](#papers)
+1. [Blogs/Posts/Videos](#blogspostsvideos)
+1. [Conferences](#conferences)
+1. [Friendly resources](#friendly-resources)
+
+
 ### Existing libraries
 
 * Alloy
