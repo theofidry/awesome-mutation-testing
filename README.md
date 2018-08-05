@@ -1,6 +1,4 @@
-# Mutation testing
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Mutation testing [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 As of now this repository is used to keep track of the current mutation testing tools developed. In the future this may be extended to reference more materials such as research papers, videos & talks.
 
