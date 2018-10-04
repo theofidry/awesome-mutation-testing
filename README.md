@@ -35,6 +35,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [dextool](https://github.com/joakim-brannstrom/dextool)
   * [markus-kusano/CCMutator](https://github.com/markus-kusano/CCMutator) [abandoned]
     * [CCmutator: A Mutation Generator for Concurrency Constructs in Multithreaded C/C++ Applications](http://www-bcf.usc.edu/~wang626/pubDOC/Kusano13CCmutator.pdf)
+  * [SRCIROR](https://github.com/TestingResearchIllinois/srciror) - A mutation tool for source and IR
 * C#
   * [infosupport/stryker-net](https://github.com/infosupport/stryker-net)
   * [ComparetheMarket/fettle](https://github.com/ComparetheMarket/fettle)
