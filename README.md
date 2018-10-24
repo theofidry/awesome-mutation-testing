@@ -42,6 +42,8 @@ As of now this repository is used to keep track of the current mutation testing 
 * Clojure
   * [mutant](https://github.com/jstepien/mutant)
   * [ds2643/mutcl](https://github.com/ds2643/mutcl) [abandoned]
+* Crystal
+  * [crytic](https://github.com/hanneskaeufler/crytic)
 * Elixir
   * [JordiPolo/mutation](https://github.com/JordiPolo/mutation)
 * Go
