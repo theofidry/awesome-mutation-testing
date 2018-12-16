@@ -22,6 +22,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [MuAlloy](https://github.com/kaiyuanw/MuAlloy)
     * [MuAlloy papers](https://github.com/kaiyuanw/MuAlloy#publications)
 * C/C++
+  * [Frama-C plugin](https://github.com/gpetiot/Frama-C-Mutation/)
   * [mull-project/mull](https://github.com/mull-project/mull)
   * [mutate_cpp](https://github.com/nlohmann/mutate_cpp)
   * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki)
