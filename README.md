@@ -80,6 +80,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [ds2643/mutpy](https://github.com/ds2643/mutpy) [abandoned]
 * Ruby
   * [mbj/mutant](https://github.com/mbj/mutant)
+    * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [backus/mutest](https://github.com/backus/mutest)
 * Rust
   * [apoelstra/halfsleep](https://github.com/apoelstra/halfsleep) [abandoned]
