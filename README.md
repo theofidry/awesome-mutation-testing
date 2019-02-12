@@ -90,6 +90,8 @@ As of now this repository is used to keep track of the current mutation testing 
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu)
 * Smalltalk
   * [pavel-krivanek/mutalk](https://github.com/pavel-krivanek/mutalk) 
+* Swift
+  * [SeanROlszewski/muter](https://github.com/SeanROlszewski/muter) 
 * Other
   * [agroce/universalmutator](https://github.com/agroce/universalmutator)
   * [boggart](https://github.com/squaresLab/boggart)
