@@ -39,7 +39,7 @@ As of now this repository is used to keep track of the current mutation testing 
     * [CCmutator: A Mutation Generator for Concurrency Constructs in Multithreaded C/C++ Applications](http://www-bcf.usc.edu/~wang626/pubDOC/Kusano13CCmutator.pdf)
   * [SRCIROR](https://github.com/TestingResearchIllinois/srciror) - A mutation tool for source and IR
 * C#
-  * [infosupport/stryker-net](https://github.com/infosupport/stryker-net)
+  * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net)
   * [ComparetheMarket/fettle](https://github.com/ComparetheMarket/fettle)
 * Clojure
   * [mutant](https://github.com/jstepien/mutant)
