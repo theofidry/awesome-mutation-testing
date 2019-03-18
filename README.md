@@ -88,6 +88,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [llogiq/mutagen](https://github.com/llogiq/mutagen)
 * Scala
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu)
+  * [stryker4s](https://stryker-mutator.io/stryker4s/)
 * Smalltalk
   * [pavel-krivanek/mutalk](https://github.com/pavel-krivanek/mutalk) 
 * Swift
