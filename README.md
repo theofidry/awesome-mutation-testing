@@ -38,6 +38,8 @@ As of now this repository is used to keep track of the current mutation testing 
   * [markus-kusano/CCMutator](https://github.com/markus-kusano/CCMutator) [abandoned]
     * [CCmutator: A Mutation Generator for Concurrency Constructs in Multithreaded C/C++ Applications](http://www-bcf.usc.edu/~wang626/pubDOC/Kusano13CCmutator.pdf)
   * [SRCIROR](https://github.com/TestingResearchIllinois/srciror) - A mutation tool for source and IR
+    * [SRCIROR: A Toolset for Mutation Testing of C Source Code and
+LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/ase18_srciror.pdf)
 * C#
   * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net)
   * [ComparetheMarket/fettle](https://github.com/ComparetheMarket/fettle)
@@ -57,6 +59,7 @@ As of now this repository is used to keep track of the current mutation testing 
   * [rudymatela/fitspec](https://github.com/rudymatela/fitspec)
 * Java/JVM
   * [hcoles/pitest](https://github.com/hcoles/pitest)
+	* [PIT : A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
   * [aliparsai/LittleDarwin](https://github.com/aliparsai/LittleDarwin)
     * [LittleDarwin: a Feature-Rich and ExtensibleMutation Testing Framework forLarge and Complex Java Systems](https://www.researchgate.net/publication/318223563_LittleDarwin_a_Feature-Rich_and_Extensible_Mutation_Testing_Framework_for_Large_and_Complex_Java_Systems)
   * [metamutator](https://github.com/SpoonLabs/metamutator)
