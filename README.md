@@ -125,6 +125,7 @@ Alex Denisov
 ](https://www.youtube.com/watch?v=YEgiyiICkpQ)
 * [GOTO 2015: Mutation Testing in Python • Austin Bingham](https://www.youtube.com/watch?v=jwB3Nn4hR1o)
 * [Jfokus 2016: From jUnit to Mutation-Testing • Sven Ruppert](https://www.youtube.com/watch?v=9yG1c9Crnbk)
+* [PHPDeveloperDay 2018: Mutation Testing • Theo Fidry](https://www.youtube.com/watch?v=dlVASJ-MbUE&list=PLW4GAs3yDy3IqKoRGGLJY5gG74SnLOQRH)
 
 
 ### Conferences
