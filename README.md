@@ -1,6 +1,6 @@
 # Awesome Mutation testing [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-As of now this repository is used to keep track of the current mutation testing tools developed. In the future this may be extended to reference more materials such as research papers, videos & talks.
+Mutation testing is the practice of making better code by introducing bugs. As of now this repository is used to keep track of the current mutation testing tools developed and related resources. Its contents and purpose may however evolve depending on the community.
 
 [Slack channel](https://mutation-testing.slack.com/)
 
