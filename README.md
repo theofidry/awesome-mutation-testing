@@ -8,12 +8,12 @@ As of now this repository is used to keep track of the current mutation testing 
 
 ### Contents
 
-1. [Existing libraries](#existing-libraries)
-1. [Visualization Tool](#visualization-tool)
-1. [Papers](#papers)
-1. [Blogs/Posts/Videos](#blogspostsvideos)
-1. [Conferences](#conferences)
-1. [Friendly resources](#friendly-resources)
+- [Existing libraries](#existing-libraries)
+- [Visualization Tool](#visualization-tool)
+- [Papers](#papers)
+- [Blogs/Posts/Videos](#blogspostsvideos)
+- [Conferences](#conferences)
+- [Friendly resources](#friendly-resources)
 
 
 ### Existing libraries
