@@ -9,6 +9,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 ### Contents
 
 - [Existing libraries](#existing-libraries)
+- [Abandoned libraries](abandoned.md)
 - [Visualization Tool](#visualization-tool)
 - [Papers](#papers)
 - [Blogs/Posts/Videos](#blogspostsvideos)
@@ -32,11 +33,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [Faster mutation analysis via equivalence modulo states](http://sei.pku.edu.cn/%7Exiongyf04/papers/ISSTA17.pdf)
   * [MUSIC](https://github.com/swtv-kaist/MUSIC)
     * [MUSIC: Mutation Analysis Tool with High Configurability and Extensibility](http://swtv.kaist.ac.kr/publications/music-mutation18.pdf)
-  * [yuejia/Milu](https://github.com/yuejia/Milu) [abandoned]
-    * [MILU: A Customizable, Runtime-Optimized Higher Order Mutation Testing Tool for the Full C Language](https://www.researchgate.net/publication/228609925_MILU_A_Customizable_Runtime-Optimized_Higher_Order_Mutation_Testing_Tool_for_the_Full_C_Language)
   * [dextool](https://github.com/joakim-brannstrom/dextool)
-  * [markus-kusano/CCMutator](https://github.com/markus-kusano/CCMutator) [abandoned]
-    * [CCmutator: A Mutation Generator for Concurrency Constructs in Multithreaded C/C++ Applications](http://www-bcf.usc.edu/~wang626/pubDOC/Kusano13CCmutator.pdf)
   * [SRCIROR](https://github.com/TestingResearchIllinois/srciror) - A mutation tool for source and IR
     * [SRCIROR: A Toolset for Mutation Testing of C Source Code and
 LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/ase18_srciror.pdf)
@@ -46,16 +43,12 @@ LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/
   * [Unima](https://github.com/MilleBo/Unima)
 * Clojure
   * [mutant](https://github.com/jstepien/mutant)
-  * [ds2643/mutcl](https://github.com/ds2643/mutcl) [abandoned]
 * Crystal
   * [crytic](https://github.com/hanneskaeufler/crytic)
 * Elixir
   * [JordiPolo/mutation](https://github.com/JordiPolo/mutation)
 * Go
   * [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting)
-  * [darkhelmet/manbearpig](https://github.com/darkhelmet/manbearpig) [abandoned]
-  * [kisielk/mutator](https://github.com/kisielk/mutator) [abandoned]
-  * [StefanSchroeder/Golang-Mutation-testing](https://github.com/StefanSchroeder/Golang-Mutation-testing) [abandoned]
 * Haskell
   * [rudymatela/fitspec](https://github.com/rudymatela/fitspec)
 * Java/JVM
@@ -66,29 +59,19 @@ LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/
   * [metamutator](https://github.com/SpoonLabs/metamutator)
   * [Major](http://mutation-testing.org)
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
-  * [jeffoffutt/muJava](https://github.com/jeffoffutt/muJava) [abandoned]
-  * [sqrlab/ConMAn](https://github.com/sqrlab/ConMAn) [abandoned]
-  * [bulentrahimkazanci/Mutation-Testing](https://github.com/bulentrahimkazanci/Mutation-Testing) [abandoned]
 * JavaScript
   * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker)
-  * [lazywithclass/mutagen](https://github.com/lazywithclass/mutagen) [abandoned]
-  * [bttmly/perturb](https://github.com/bttmly/perturb) [abandoned]
-  * [lazywithclass/cerebro](https://github.com/lazywithclass/cerebro) [abandoned]
 * PHP
   * [infection/infection](https://github.com/infection)
-  * [humbug/humbug](https://github.com/humbug/humbug) [deprecated]
 * Python
   * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray)
   * [boxed/mutmut](https://github.com/boxed/mutmut)
   * [xmutant.py](https://github.com/vrthra/xmutant.py)
-  * [ds2643/mutpy](https://github.com/ds2643/mutpy) [abandoned]
 * Ruby
   * [mbj/mutant](https://github.com/mbj/mutant)
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [backus/mutest](https://github.com/backus/mutest)
 * Rust
-  * [apoelstra/halfsleep](https://github.com/apoelstra/halfsleep) [abandoned]
-  * [Geal/mutant](https://github.com/Geal/mutant) [abandoned]
   * [llogiq/mutagen](https://github.com/llogiq/mutagen)
 * Scala
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu)
