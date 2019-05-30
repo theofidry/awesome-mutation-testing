@@ -30,4 +30,4 @@
 <br />
 <hr />
 
-« [Back to Table of Contents](../README.md#contents) »
+« [Back to Table of Contents](README.md#contents) »
