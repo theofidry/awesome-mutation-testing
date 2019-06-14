@@ -54,6 +54,9 @@ LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/
 * Java/JVM
   * [hcoles/pitest](https://github.com/hcoles/pitest)
 	* [PIT : A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
+    * [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
+    * [Faster Mutation Testing (in Java)](https://blog.frankel.ch/faster-mutation-testing/)
+  	* [Voxxed Athens 2017 :: Mutation Testing to the rescue of your Tests • Nicolas Fränkel](https://www.youtube.com/watch?v=E4UuxVWYCVQ)
   * [aliparsai/LittleDarwin](https://github.com/aliparsai/LittleDarwin)
     * [LittleDarwin: a Feature-Rich and ExtensibleMutation Testing Framework forLarge and Complex Java Systems](https://www.researchgate.net/publication/318223563_LittleDarwin_a_Feature-Rich_and_Extensible_Mutation_Testing_Framework_for_Large_and_Complex_Java_Systems)
   * [metamutator](https://github.com/SpoonLabs/metamutator)
@@ -110,7 +113,6 @@ Alex Denisov
 * [GOTO 2015: Mutation Testing in Python • Austin Bingham](https://www.youtube.com/watch?v=jwB3Nn4hR1o)
 * [Jfokus 2016: From jUnit to Mutation-Testing • Sven Ruppert](https://www.youtube.com/watch?v=9yG1c9Crnbk)
 * [PHPDeveloperDay 2018: Mutation Testing • Theo Fidry](https://www.youtube.com/watch?v=dlVASJ-MbUE&list=PLW4GAs3yDy3IqKoRGGLJY5gG74SnLOQRH)
-
 
 ### Conferences
 
