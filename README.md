@@ -48,6 +48,8 @@ LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/
   * [crytic](https://github.com/hanneskaeufler/crytic)
 * Elixir
   * [JordiPolo/mutation](https://github.com/JordiPolo/mutation)
+* Erlang
+  * [parsifal-47/muterl](https://github.com/parsifal-47/muterl)
 * Go
   * [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting)
 * Haskell
