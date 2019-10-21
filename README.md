@@ -103,6 +103,7 @@ LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/
 * [Predicting Mutation Scores using Source Code and Test Suite Metrics](https://github.com/kevinjalbert/master-thesis)
 * [CrestWeb](http://crestweb.cs.ucl.ac.uk/resources/mutation_testing_repository)
 * [Mutation Testing Repository at LU](https://mutationtesting.uni.lu/)
+* [An Industrial Application of Mutation Testing: Lessons, Challenges, and Research Direction](https://homes.cs.washington.edu/~rjust/publ/industrial_mutation_icst_2018.pdf)
 
 * [PropEr Testing](http://propertesting.com/)
 
