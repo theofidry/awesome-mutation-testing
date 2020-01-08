@@ -134,6 +134,10 @@ aspects and cost analysis](http://antares.sip.ucm.es/tarot09/index_files/Mutatio
 * [Mitigating the Effects of Flaky Tests on Mutation Testing](https://www.jonbell.net/preprint/issta19mutants.pdf)
 * [Speeding-Up Mutation Testing via Data
 Compression and State Infection](https://peerj.com/preprints/2632.pdf)
+* [State of Mutation Testing at Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46584.pdf)
+* [Operator-Based and Random Mutant Selection:
+Better Together](http://mir.cs.illinois.edu/~marinov/publications/ZhangETAL13BetterTogether.pdf)
+* [Towards effective mutation testing for ATL](http://miso.es/pubs/models19.pdf)
 
 * [PropEr Testing](http://propertesting.com/)
 
