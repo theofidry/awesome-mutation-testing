@@ -35,8 +35,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [MUSIC: Mutation Analysis Tool with High Configurability and Extensibility](http://swtv.kaist.ac.kr/publications/music-mutation18.pdf)
   * [dextool](https://github.com/joakim-brannstrom/dextool)
   * [SRCIROR](https://github.com/TestingResearchIllinois/srciror) - A mutation tool for source and IR
-    * [SRCIROR: A Toolset for Mutation Testing of C Source Code and
-LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/ase18_srciror.pdf)
+    * [SRCIROR: A Toolset for Mutation Testing of C Source Code and LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/ase18_srciror.pdf)
   * [MART](https://github.com/thierry-tct/mart)
 * C#
   * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net)
@@ -56,13 +55,13 @@ LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/
   * [rudymatela/fitspec](https://github.com/rudymatela/fitspec)
 * Java/JVM
   * [hcoles/pitest](https://github.com/hcoles/pitest)
-	* [PIT : A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
-	* [An Experimental Evaluation of PIT’s Mutation Operators](http://www.diva-portal.org/smash/get/diva2:1161760/FULLTEXT01.pdf)
+        * [PIT : A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
+        * [An Experimental Evaluation of PIT’s Mutation Operators](http://www.diva-portal.org/smash/get/diva2:1161760/FULLTEXT01.pdf)
     * [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
     * [Faster Mutation Testing (in Java)](https://blog.frankel.ch/faster-mutation-testing/)
-  	* [Voxxed Athens 2017 :: Mutation Testing to the rescue of your Tests • Nicolas Fränkel](https://www.youtube.com/watch?v=E4UuxVWYCVQ)
+        * [Voxxed Athens 2017 :: Mutation Testing to the rescue of your Tests • Nicolas Fränkel](https://www.youtube.com/watch?v=E4UuxVWYCVQ)
   * [aliparsai/LittleDarwin](https://github.com/aliparsai/LittleDarwin)
-    * [LittleDarwin: a Feature-Rich and ExtensibleMutation Testing Framework forLarge and Complex Java Systems](https://www.researchgate.net/publication/318223563_LittleDarwin_a_Feature-Rich_and_Extensible_Mutation_Testing_Framework_for_Large_and_Complex_Java_Systems)
+    * [LittleDarwin: a Feature-Rich and Extensible Mutation Testing Framework for Large and Complex Java Systems](https://www.parsai.net/files/research/LittleDarwin%20a%20Feature-Rich%20and%20Extensible%20Mutation%20Testing%20Framework%20for%20Large%20and%20Complex%20Java%20Systems%20(pre-print).pdf)
   * [metamutator](https://github.com/SpoonLabs/metamutator)
   * [Major](http://mutation-testing.org)
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
@@ -98,8 +97,7 @@ LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/
 
 ### Papers
 
-* [Mutation Testing Repository
-](http://crestweb.cs.ucl.ac.uk/resources/mutation_testing_repository)
+* [Mutation Testing Repository](http://crestweb.cs.ucl.ac.uk/resources/mutation_testing_repository)
 * [An Analysis and Survey of the Development of Mutation Testing](http://www0.cs.ucl.ac.uk/staff/mharman/tse-mutation-survey.pdf)
 * [Mutation Testing Advances: An Analysis and Survey](https://mutationtesting.uni.lu/survey.pdf)
 * [Are Mutants a Valid Substitute for Real Faults in Software Testing?](https://homes.cs.washington.edu/~mernst/pubs/mutation-effectiveness-fse2014.pdf)
@@ -112,31 +110,20 @@ LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/
 * [Assessing Test Quality](https://d-nb.info/1051432480/34)
 * [Mutation Testing](https://www.st.cs.uni-saarland.de/edu/testingdebugging10/slides/10-MutationTesting.pdf)
 * [Mutation Testing: Guideline and Mutation Operator Classification](https://pdfs.semanticscholar.org/1f0b/7edf1bdf2ccf935398bb79faab808b6e7134.pdf)
-* [Faster Mutation Testing Inspired by
-Test Prioritization and Reduction](https://personal.utdallas.edu/~lxz144130/cs6301-readings/mutation-testing-zhang-issta13.pdf)
-* [Estimation and Enhancement of Real-Time Software Reliability through Mutation Analysis
-](https://www.researchgate.net/publication/3042963_Estimation_and_Enhancement_of_Real-Time_Software_Reliability_through_Mutation_Analysis)
-* [Problems of Mutation Testing and Higher Order
-Mutation Testing](http://madeyski.e-informatyka.pl/download/NguyenMadeyski14.pdf)
-* [Effectiveness of Mutation Testing Techniques: Reducing Mutation Cost
-](https://www.researchgate.net/publication/281858788_Effectiveness_of_Mutation_Testing_Techniques_Reducing_Mutation_Cost)
+* [Faster Mutation Testing Inspired by Test Prioritization and Reduction](https://personal.utdallas.edu/~lxz144130/cs6301-readings/mutation-testing-zhang-issta13.pdf)
+* [Estimation and Enhancement of Real-Time Software Reliability through Mutation Analysis](https://www.researchgate.net/publication/3042963_Estimation_and_Enhancement_of_Real-Time_Software_Reliability_through_Mutation_Analysis)
+* [Problems of Mutation Testing and Higher Order Mutation Testing](http://madeyski.e-informatyka.pl/download/NguyenMadeyski14.pdf)
+* [Effectiveness of Mutation Testing Techniques: Reducing Mutation Cost](https://www.researchgate.net/publication/281858788_Effectiveness_of_Mutation_Testing_Techniques_Reducing_Mutation_Cost)
 * [Reducing the Cost of Android Mutation Testing](https://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_184.pdf)
-* [A Systematic Literature Review of Techniques and Metrics to
-Reduce the Cost of Mutation Testing](https://cs.gmu.edu/~offutt/rsrch/papers/SLR-CostReductionMutation.pdf)
-* [Effective Methods to Tackle the Equivalent
-Mutant Problem when Testing Software with
-Mutation](http://pages.cs.aueb.gr/~kintism/phd-thesis/Kintis-PhD-2016.pdf)
+* [A Systematic Literature Review of Techniques and Metrics to Reduce the Cost of Mutation Testing](https://cs.gmu.edu/~offutt/rsrch/papers/SLR-CostReductionMutation.pdf)
+* [Effective Methods to Tackle the Equivalent Mutant Problem when Testing Software with Mutation](http://pages.cs.aueb.gr/~kintism/phd-thesis/Kintis-PhD-2016.pdf)
 * [Goal-Oriented Mutation Testing with Focal Methods](https://arxiv.org/pdf/1807.10953.pdf)
-* [OUTRIDER: Optimizing the mUtation Testing pRocess
-In Distributed EnviRonments](http://miso.es/pubs/iccs17.pdf)
-* [Mutation testing: practical
-aspects and cost analysis](http://antares.sip.ucm.es/tarot09/index_files/MutationTestingTAROT09.pdf)
+* [OUTRIDER: Optimizing the mUtation Testing pRocess In Distributed EnviRonments](http://miso.es/pubs/iccs17.pdf)
+* [Mutation testing: practical aspects and cost analysis](http://antares.sip.ucm.es/tarot09/index_files/MutationTestingTAROT09.pdf)
 * [Mitigating the Effects of Flaky Tests on Mutation Testing](https://www.jonbell.net/preprint/issta19mutants.pdf)
-* [Speeding-Up Mutation Testing via Data
-Compression and State Infection](https://peerj.com/preprints/2632.pdf)
+* [Speeding-Up Mutation Testing via Data Compression and State Infection](https://peerj.com/preprints/2632.pdf)
 * [State of Mutation Testing at Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46584.pdf)
-* [Operator-Based and Random Mutant Selection:
-Better Together](http://mir.cs.illinois.edu/~marinov/publications/ZhangETAL13BetterTogether.pdf)
+* [Operator-Based and Random Mutant Selection: Better Together](http://mir.cs.illinois.edu/~marinov/publications/ZhangETAL13BetterTogether.pdf)
 * [Towards effective mutation testing for ATL](http://miso.es/pubs/models19.pdf)
 
 * [PropEr Testing](http://propertesting.com/)
@@ -145,9 +132,7 @@ Better Together](http://mir.cs.illinois.edu/~marinov/publications/ZhangETAL13Bet
 
 * [Mutant Musings](https://github.com/tjchambers/mutant-musings)
 * [RailsConf 2017: How to Write Better Code Using Mutation Testing • John Backus](https://www.youtube.com/watch?v=uB7m9T7ymn8)
-* [FOSDEM 2017: Mutation Testing: Leaving the Stone Age • 
-Alex Denisov
-](https://www.youtube.com/watch?v=YEgiyiICkpQ)
+* [FOSDEM 2017: Mutation Testing: Leaving the Stone Age • Alex Denisov](https://www.youtube.com/watch?v=YEgiyiICkpQ)
 * [GOTO 2015: Mutation Testing in Python • Austin Bingham](https://www.youtube.com/watch?v=jwB3Nn4hR1o)
 * [Jfokus 2016: From jUnit to Mutation-Testing • Sven Ruppert](https://www.youtube.com/watch?v=9yG1c9Crnbk)
 * [PHPDeveloperDay 2018: Mutation Testing • Theo Fidry](https://www.youtube.com/watch?v=dlVASJ-MbUE&list=PLW4GAs3yDy3IqKoRGGLJY5gG74SnLOQRH)
@@ -155,11 +140,10 @@ Alex Denisov
 
 ### Conferences
 
-- International Workshop on Mutation Analysis
-  - [MUTATION 2018, The 13th International Workshop on Mutation Analysis](https://mutation-workshop.github.io)
+* International Workshop on Mutation Analysis
+  * [MUTATION 2018, The 13th International Workshop on Mutation Analysis](https://mutation-workshop.github.io)
 
 ### Friendly resources
 
-- [atodorov/mutation-testing-in-patterns](https://github.com/atodorov/mutation-testing-in-patterns)
-
-> Practical examples of software and testing patterns related to mutation testing http://mutation-testing-patterns.rtfd.io
+* [atodorov/mutation-testing-in-patterns](https://github.com/atodorov/mutation-testing-in-patterns)
+    * Practical examples of software and testing patterns related to mutation testing [Mutation Testing in Patterns](http://mutation-testing-patterns.rtfd.io)
