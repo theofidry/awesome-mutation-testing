@@ -15,6 +15,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 - [Blogs/Posts/Videos](#blogspostsvideos)
 - [Conferences](#conferences)
 - [Friendly resources](#friendly-resources)
+- [Tutorials](#tutorials)
 
 
 ### Existing libraries
@@ -148,3 +149,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 
 * [atodorov/mutation-testing-in-patterns](https://github.com/atodorov/mutation-testing-in-patterns)
     * Practical examples of software and testing patterns related to mutation testing [Mutation Testing in Patterns](http://mutation-testing-patterns.rtfd.io)
+
+### Tutorials
+
+* [Introduction to Mutation Testing with PIT (Java)](https://github.com/sualeh/introduction-to-mutation-testing)
