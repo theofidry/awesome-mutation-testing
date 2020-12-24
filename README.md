@@ -2,9 +2,8 @@
 
 Mutation testing is the practice of making better code by introducing bugs. As of now this repository is used to keep track of the current mutation testing tools developed and related resources. Its contents and purpose may however evolve depending on the community.
 
-[Slack channel](https://mutation-testing.slack.com/)
+[Discord Invite](https://discord.com/invite/k5JBWU2)
 
-[Slack Invite](https://mutation-testing-slack.herokuapp.com/)
 
 ### Contents
 
