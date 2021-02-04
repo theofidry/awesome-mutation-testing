@@ -41,6 +41,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net)
   * [ComparetheMarket/fettle](https://github.com/ComparetheMarket/fettle)
   * [Testura.Mutation](https://github.com/Testura/Testura.Mutation)
+  * [Faultify](https://github.com/Faultify/Faultify)
 * Clojure
   * [mutant](https://github.com/jstepien/mutant)
 * Crystal
