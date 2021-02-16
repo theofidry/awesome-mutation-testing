@@ -33,7 +33,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [Faster mutation analysis via equivalence modulo states](http://sei.pku.edu.cn/%7Exiongyf04/papers/ISSTA17.pdf)
   * [MUSIC](https://github.com/swtv-kaist/MUSIC)
     * [MUSIC: Mutation Analysis Tool with High Configurability and Extensibility](http://swtv.kaist.ac.kr/publications/music-mutation18.pdf)
-  * [dextool](https://github.com/joakim-brannstrom/dextool)
+  * [Dextool Mutate](https://github.com/joakim-brannstrom/dextool/tree/master/plugin/mutate)
   * [SRCIROR](https://github.com/TestingResearchIllinois/srciror) - A mutation tool for source and IR
     * [SRCIROR: A Toolset for Mutation Testing of C Source Code and LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/ase18_srciror.pdf)
   * [MART](https://github.com/thierry-tct/mart)
