@@ -22,7 +22,9 @@
 * PHP
   * [humbug/humbug](https://github.com/humbug/humbug)
 * Python
+  * [mutpy/mutpy](https://github.com/mutpy/mutpy) 
   * [ds2643/mutpy](https://github.com/ds2643/mutpy)
+  * [vrthra/xmutant.py](https://github.com/vrthra/xmutant.py)
 * Rust
   * [apoelstra/halfsleep](https://github.com/apoelstra/halfsleep)
   * [Geal/mutant](https://github.com/Geal/mutant)
