@@ -127,7 +127,8 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * [Operator-Based and Random Mutant Selection: Better Together](http://mir.cs.illinois.edu/~marinov/publications/ZhangETAL13BetterTogether.pdf)
 * [Towards effective mutation testing for ATL](http://miso.es/pubs/models19.pdf)
 * [PropEr Testing](http://propertesting.com/)
-* [Mutation Testing in the wild: findings from GitHub)(https://link.springer.com/article/10.1007/s10664-022-10177-8)
+* [Mutation Testing in the wild: findings from GitHub](https://link.springer.com/article/10.1007/s10664-022-10177-8)
+* [Mutation Testing by Goran Petrovic](https://testing.googleblog.com/2021/04/mutation-testing.html)
 
 ### Blogs/Posts/Videos
 
