@@ -52,6 +52,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [parsifal-47/muterl](https://github.com/parsifal-47/muterl)
 * Go
   * [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting)
+  * [Ooze](https://github.com/gtramontina/ooze)
 * Haskell
   * [mucheck](https://hackage.haskell.org/package/MuCheck)
   * [rudymatela/fitspec](https://github.com/rudymatela/fitspec)
