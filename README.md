@@ -142,6 +142,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * [PHPDeveloperDay 2018: Mutation Testing • Theo Fidry](https://www.youtube.com/watch?v=dlVASJ-MbUE&list=PLW4GAs3yDy3IqKoRGGLJY5gG74SnLOQRH)
 * [Test Automation Research for Industry 2019: Mutation Testing, Opportunities and Pitfalls • Ali Parsai](https://www.youtube.com/watch?v=oebxX3COmtg)
 * [Markus Schirp On Mutation Operators](https://gist.github.com/AlexDenisov/feb0b5ab7c0648441b492a462b0f307f)
+* [How To Test C# Unit Tests With Mutation Testing](https://www.youtube.com/watch?v=9BoKyeZapLs)
 
 ### Conferences
 
