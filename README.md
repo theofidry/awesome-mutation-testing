@@ -88,7 +88,9 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * Smalltalk
   * [pavel-krivanek/mutalk](https://github.com/pavel-krivanek/mutalk) 
 * Swift
-  * [SeanROlszewski/muter](https://github.com/SeanROlszewski/muter) 
+  * [SeanROlszewski/muter](https://github.com/SeanROlszewski/muter)
+* OCaml
+  * [mutaml](https://github.com/jmid/mutaml) 
 * Other
   * [agroce/universalmutator](https://github.com/agroce/universalmutator)
   * [boggart](https://github.com/squaresLab/boggart)
