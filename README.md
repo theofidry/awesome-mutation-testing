@@ -81,6 +81,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [backus/mutest](https://github.com/backus/mutest)
 * Rust
+  * [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants)
   * [llogiq/mutagen](https://github.com/llogiq/mutagen)
 * Scala
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu)
