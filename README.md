@@ -71,6 +71,8 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
 * JavaScript
   * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker)
+* Kotlin
+  * [mutant-kraken](https://github.com/JosueMolinaMorales/mutant-kraken)
 * PHP
   * [infection/infection](https://github.com/infection)
 * Python
@@ -135,6 +137,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * [PropEr Testing](http://propertesting.com/)
 * [Mutation Testing in the wild: findings from GitHub](https://link.springer.com/article/10.1007/s10664-022-10177-8)
 * [Mutation Testing by Goran Petrovic](https://testing.googleblog.com/2021/04/mutation-testing.html)
+* [Mutant-Kraken A Mutation Testing Tool For Kotlin](https://conf.researchr.org/details/icst-2024/mutation-2024-papers/2/Mutant-Kraken-A-Mutation-Testing-Tool-for-Kotlin)
 
 ### Blogs/Posts/Videos
 
