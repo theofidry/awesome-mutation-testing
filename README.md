@@ -89,7 +89,12 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu)
   * [stryker4s](https://stryker-mutator.io/stryker4s/)
 * Smalltalk
-  * [pavel-krivanek/mutalk](https://github.com/pavel-krivanek/mutalk) 
+  * [pavel-krivanek/mutalk](https://github.com/pavel-krivanek/mutalk)
+* Simulink
+  * [MUT4SLX](https://github.com/haliliceylan/MUT4SLX) - An open-source, model-based mutation testing tool for Simulink and Stateflow (MATLAB) models. Applies principles of shift-left testing.
+    * [Reproduction Package](https://github.com/haliliceylan/MUT4SLX/blob/main/Reproduction-Package-ASE-2023.md)
+    * [MUT4SLX: Fast mutant generation for simulink](https://ieeexplore.ieee.org/abstract/document/10298490)
+    * [MUT4SLX: Extensions for Mutation Testing of Stateflow Models](https://ieeexplore.ieee.org/abstract/document/10621727)
 * Swift
   * [SeanROlszewski/muter](https://github.com/SeanROlszewski/muter)
 * OCaml
