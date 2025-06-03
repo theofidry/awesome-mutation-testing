@@ -75,6 +75,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [mutant-kraken](https://github.com/JosueMolinaMorales/mutant-kraken)
 * PHP
   * [infection/infection](https://github.com/infection)
+  * [PEST PHP](https://pestphp.com/docs/mutation-testing)
 * Python
   * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray)
   * [boxed/mutmut](https://github.com/boxed/mutmut)
