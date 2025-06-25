@@ -97,13 +97,14 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [MUT4SLX: Fast mutant generation for simulink](https://ieeexplore.ieee.org/abstract/document/10298490)
     * [MUT4SLX: Extensions for Mutation Testing of Stateflow Models](https://ieeexplore.ieee.org/abstract/document/10621727)
 * Swift
-  * [SeanROlszewski/muter](https://github.com/SeanROlszewski/muter)
+  * [muter-mutation-testing/muter](https://github.com/muter-mutation-testing/muter)
 * OCaml
   * [mutaml](https://github.com/jmid/mutaml) 
 * Other
   * [agroce/universalmutator](https://github.com/agroce/universalmutator)
   * [squaresLab/boggart](https://github.com/squaresLab/boggart)
   * [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter)
+  * [JoranHonig/vertigo](https://github.com/JoranHonig/vertigo)
 
 ### Visualization Tool
 
