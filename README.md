@@ -112,10 +112,12 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 
 ### Publications
 
+* [Jeongju Sohn, Ezekiel Soremekun, Michail Papadakis (2025) _Latent Mutants: A large-scale study on the Interplay between mutation testing and software evolution_](./papers/Latent%20Mutants%20A%20large%20scale%20study%20on%20the%20Interplay%20between%20mutation%20testing%20and%20software%20evolution%20(2025).pdf)
 * [Dolores Miao, Ignacio Laguna, Giorgis Georgakoudis, Konstantinos Parasyris, Cindy Rubio-González (2024) _An automated OpenMP mutation testing framework for performance optimization_](./papers/An%20automated%20OpenMP%20mutation%20testing%20framework%20for%20performance%20optimization%20(2024).pdf)
 * [Pedro Delgado-Pérez, Ana B. Sánchez, Sergio Segura, Inmaculada Medina-Bulo (2022) _Mutation testing in the wild: findings from GitHub_](./papers/Mutation%20testing%20in%20the%20wild:%20findings%20from%20GitHub%20(2022).pdf)
 * [Goran Petrovic, Marko Ivankovic, Gordon Fraser, René Just (2021) _Practical Mutation Testing at Scale: A view from Google_](./papers/Practical%20Mutation%20Testing%20at%20Scale%20A%20view%20from%20Google%20(2021).pdf)
 * [Goran Petrovic, Marko Ivankovic, Gordon Fraser, René Just (2021) _Does mutation testing improve testing practices?_](./papers/Does%20mutation%20testing%20improve%20testing%20practices%3F%20(2021).pdf)
+* [Giovani Guizzo, Federica Sarro, Jens Krinke, Silvia Regina Vergilio (2021) _Sentinel: A Hyper-Heuristic for the Generation of Mutant Reduction Strategies_](./papers/Sentinel:%20A%20Hyper-Heuristic%20for%20the%20Generation%20of%20Mutant%20Reduction%20Strategies%20(2021).pdf)
 * [Y. Ivanovaa, A. Khritankova (2020) _RegularMutator: A Mutation Testing Tool for Solidity Smart Contracts_](./papers/RegularMutator:%20A%20Mutation%20Testing%20Tool%20for%20Solidity%20Smart%20Contracts%20(2020).pdf)
 * [Alessandro Viola Pizzoletoa, Fabiano Cutigi Ferraria, Jeff Offuttb, Leo Fernandesc, Marcio Ribeirod (2019) _A Systematic Literature Review of Techniques and Metrics to Reduce the Cost of Mutation Testing_](./papers/A%20Systematic%20Literature%20Review%20of%20Techniques%20and%20Metrics%20to%20Reduce%20the%20Cost%20of%20Mutation%20Testing%20(2019).pdf)
 * [August Shi, Jonathan Bell, Darko Marinov (2019) Mitigating the Effects of Flaky Tests on Mutation Testing](./papers/Mitigating%20the%20Effects%20of%20Flaky%20Tests%20on%20Mutation%20Testing%20(2019).pdf)
@@ -124,6 +126,8 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * [Goran Petrovic, Marko Ivankovic (2018) _State of Mutation Testing at Google_](./papers/State%20of%20Mutation%20Testing%20at%20Google%20(2018).pdf)
 * [Goran Petrovic, Marko Ivankovic, Bob Kurtz, Paul Ammann, René Just (2018) _An Industrial Application of Mutation Testing/ Lessons, Challenges, and Research Directions_](./papers/An Industrial Application of Mutation Testing: Lessons, Challenges, and Research Directions (2018).pdf)
 * [Sten Vercammen, Serge Demeyer, Mohammad Ghafari, Markus Borg (2018) _Goal-Oriented Mutation Testing with Focal Methods_](./papers/Goal-Oriented%20Mutation%20Testing%20with%20Focal%20Methods%20(2018).pdf)
+* [Qianqian Zhu, Annibale Panichella, Andy Zaidman (2018) _A Systematic Literature Review of How Mutation Testing Supports Quality Assurance Processes_](./papers/A%20Systematic%20Literature%20Review%20of%20Techniques%20and%20Metrics%20to%20Reduce%20the%20Cost%20of%20Mutation%20Testing%20(2019).pdf)
+* [Lingchao Chen, Lingming Zhang (2018) _Speeding up Mutation Testing via Regression Test Selection: An Extensive Study_](./papers/Speeding-Up%20Mutation%20Testing%20via%20Data%20Compression%20and%20State%20Infection%20(2017).pdf)
 * [Mike Papadakisa, Marinos Kintisa, Jie Zhangc, Yue Jiab, Yves Le Traona, Mark Harmanb (2017) _Mutation Testing Advances: An Analysis and Survey_](./papers/Mutation%20Testing%20Advances:%20An%20Analysis%20and%20Survey%20(2017).pdf)
 * [Pablo C. Cañizares, Alberto Núñez, Juan de Lara (2017) _OUTRIDER: Optimizing the mUtation Testing pRocess In Distributed EnviRonments_](./papers/OUTRIDER:%20Optimizing%20the%20mUtation%20Testing%20pRocess%20In%20Distributed%20EnviRonments%20(2017).pdf)
 * [Qianqian Zhu, Annibale Panichella, Andy Zaidman (2017) _Speeding-Up Mutation Testing via Data Compression and State Infection_](./papers/Speeding-Up%20Mutation%20Testing%20via%20Data%20Compression%20and%20State%20Infection%20(2017).pdf)
@@ -143,6 +147,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * [Gordon Fraser (2010) Mutation Testing (university course slides)](./papers/Mutation%20Testing%20(2010).pdf)
 * [Pedro Delgado-Pérez, Ana B. Sánchez, Sergio Segura, Inmaculada Medina-Bulo (2010) _Performance Mutation Testing_](./papers/Performance%20Mutation%20Testing%20(2010).pdf)
 * [Macario Polo, Mario Piattini (2009) _Mutation testing: practical aspects and cost analysis_](./papers/Mutation testing: practical aspects and cost analysis  (2009).pdf)
+* [Jeff Offutt, Paul Ammann, Lisa (Ling) Liu (2006) _Mutation Testing implements Grammar-Based Testing_](./papers/Mutation%20Testing%20implements%20Grammar-Based%20Testing%20(2006).pdf)
 * [Robert Geist, Jeff Offutt (1992) _Estimation and Enhancement of Real-Time Software Reliability through Mutation Analysis_](./papers/Estimation%20and%20Enhancement%20of%20Real-Time%20Software%20Reliability%20through%20Mutation%20Analysis%20(1992).pdf)
 
 ### Blogs/Posts
