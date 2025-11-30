@@ -96,6 +96,10 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [Reproduction Package](https://github.com/haliliceylan/MUT4SLX/blob/main/Reproduction-Package-ASE-2023.md)
     * [MUT4SLX: Fast mutant generation for simulink](https://ieeexplore.ieee.org/abstract/document/10298490)
     * [MUT4SLX: Extensions for Mutation Testing of Stateflow Models](https://ieeexplore.ieee.org/abstract/document/10621727)
+* Solidity / Smart Contracts
+  * [Certora/gambit](https://github.com/Certora/gambit)
+  * [RareSkills/vertigo-rs](https://github.com/RareSkills/vertigo-rs)
+  * [JoranHonig/vertigo](https://github.com/JoranHonig/vertigo)
 * Swift
   * [muter-mutation-testing/muter](https://github.com/muter-mutation-testing/muter)
 * OCaml
@@ -104,7 +108,6 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [agroce/universalmutator](https://github.com/agroce/universalmutator)
   * [squaresLab/boggart](https://github.com/squaresLab/boggart)
   * [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter)
-  * [JoranHonig/vertigo](https://github.com/JoranHonig/vertigo)
 
 ### Visualization Tool
 
@@ -115,6 +118,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 
 * [Jeongju Sohn, Ezekiel Soremekun, Michail Papadakis (2025) _Latent Mutants: A large-scale study on the Interplay between mutation testing and software evolution_](documents/Latent%20Mutants%20A%20large%20scale%20study%20on%20the%20Interplay%20between%20mutation%20testing%20and%20software%20evolution%20(2025).pdf)
 * [Dolores Miao, Ignacio Laguna, Giorgis Georgakoudis, Konstantinos Parasyris, Cindy Rubio-González (2024) _An automated OpenMP mutation testing framework for performance optimization_](documents/An%20automated%20OpenMP%20mutation%20testing%20framework%20for%20performance%20optimization%20(2024).pdf)
+* [Enzo Nicourt, Benjamin Kushigian, Chandrakana Nandi, Yliès Falcone (2024) _Using Mutation Testing To Improve and Minimize Test Suites for Smart Contracts_](documents/Using%20Mutation%20Testing%20To%20Improve%20and%20Minimize%20Test%20Suites%20for%20Smart%20Contracts.pdf)
 * [Pedro Delgado-Pérez, Ana B. Sánchez, Sergio Segura, Inmaculada Medina-Bulo (2022) _Mutation testing in the wild: findings from GitHub_](documents/Mutation%20testing%20in%20the%20wild:%20findings%20from%20GitHub%20(2022).pdf)
 * [Goran Petrovic, Marko Ivankovic, Gordon Fraser, René Just (2021) _Practical Mutation Testing at Scale: A view from Google_](documents/Practical%20Mutation%20Testing%20at%20Scale%20A%20view%20from%20Google%20(2021).pdf)
 * [Goran Petrovic, Marko Ivankovic, Gordon Fraser, René Just (2021) _Does mutation testing improve testing practices?_](documents/Does%20mutation%20testing%20improve%20testing%20practices%3F%20(2021).pdf)
@@ -155,6 +159,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 
 * [The Power of Mutation Testing (2024) • The Green Report](https://www.thegreenreport.blog/articles/the-power-of-mutation-testing/the-power-of-mutation-testing.html)
 * [Enhancing Test Effectiveness with Mutation Testing (2024) • João Coelho](https://medium.com/@joaovitorcoelho10/enhancing-test-effectiveness-with-mutation-testing-6a714c1dfd01)
+* [Solidity Mutation Testing (2023) • RareSkills](https://rareskills.io/post/solidity-mutation-testing)
 * [Mutation Testing Google Blog Entry (2021) • Goran Petrovic (Google)](https://testing.googleblog.com/2021/04/mutation-testing.html)
 * [GOTO 2019 • Making Mutants Work for You • Henry Coles](https://www.youtube.com/watch?v=LoFJajoJQ2g&feature=youtu.be)
 * [Test Automation Research for Industry 2019: Mutation Testing, Opportunities and Pitfalls • Ali Parsai](https://www.youtube.com/watch?v=oebxX3COmtg)
