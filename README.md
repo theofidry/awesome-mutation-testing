@@ -116,6 +116,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 
 ### Publications
 
+* [Hervé Robert, Shubho Sengupta (2025) _Mutation-Guided LLM-based Test Generation at Meta_](documents/Mutation-Guided%20LLM-based%20Test%20Generation%20at%20Meta%20(2025).pdf)
 * [Jeongju Sohn, Ezekiel Soremekun, Michail Papadakis (2025) _Latent Mutants: A large-scale study on the Interplay between mutation testing and software evolution_](documents/Latent%20Mutants%20A%20large%20scale%20study%20on%20the%20Interplay%20between%20mutation%20testing%20and%20software%20evolution%20(2025).pdf)
 * [Dolores Miao, Ignacio Laguna, Giorgis Georgakoudis, Konstantinos Parasyris, Cindy Rubio-González (2024) _An automated OpenMP mutation testing framework for performance optimization_](documents/An%20automated%20OpenMP%20mutation%20testing%20framework%20for%20performance%20optimization%20(2024).pdf)
 * [Enzo Nicourt, Benjamin Kushigian, Chandrakana Nandi, Yliès Falcone (2024) _Using Mutation Testing To Improve and Minimize Test Suites for Smart Contracts_](documents/Using%20Mutation%20Testing%20To%20Improve%20and%20Minimize%20Test%20Suites%20for%20Smart%20Contracts.pdf)
