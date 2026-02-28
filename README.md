@@ -169,6 +169,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * [A note on Mutation Operators (2017) • Markus Schirp](https://gist.github.com/AlexDenisov/feb0b5ab7c0648441b492a462b0f307f)
 * [Jfokus 2016: From jUnit to Mutation-Testing • Sven Ruppert](https://www.youtube.com/watch?v=9yG1c9Crnbk)
 * [GOTO 2015: Mutation Testing in Python • Austin Bingham](https://www.youtube.com/watch?v=jwB3Nn4hR1o)
+* [Relevant mutants • Manuel Rivero](https://codesai.com/posts/2024/07/relevant-mutants)
 
 ### Videos
 
