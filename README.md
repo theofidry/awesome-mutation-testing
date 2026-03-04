@@ -73,6 +73,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker)
 * Kotlin
   * [mutant-kraken](https://github.com/JosueMolinaMorales/mutant-kraken)
+  * [mutflow](https://github.com/anschnapp/mutflow)
 * PHP
   * [infection/infection](https://github.com/infection)
   * [PEST PHP](https://pestphp.com/docs/mutation-testing)
@@ -173,6 +174,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * [Jfokus 2016: From jUnit to Mutation-Testing • Sven Ruppert](https://www.youtube.com/watch?v=9yG1c9Crnbk)
 * [GOTO 2015: Mutation Testing in Python • Austin Bingham](https://www.youtube.com/watch?v=jwB3Nn4hR1o)
 * [Relevant mutants (2024) • Manuel Rivero](https://codesai.com/posts/2024/07/relevant-mutants)
+* [I built a single-compile mutation testing lib for Kotlin which runs inside your normal test suite (2026) • Andreas Schnapp](https://dev.to/5n4p_/i-built-a-single-compile-mutation-testing-lib-for-kotlin-which-runs-inside-your-normal-test-suite-4253)
 
 ### Videos
 
