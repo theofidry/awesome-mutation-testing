@@ -109,6 +109,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [agroce/universalmutator](https://github.com/agroce/universalmutator)
   * [squaresLab/boggart](https://github.com/squaresLab/boggart)
   * [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter)
+  * [bough](https://github.com/CodeEnPlace/bough)
 
 ### Visualization Tool
 
