@@ -51,7 +51,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * Erlang
   * [parsifal-47/muterl](https://github.com/parsifal-47/muterl)
 * Go
-  * [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting)
+  * [jonbaldie/go-mutesting](https://github.com/jonbaldie/go-mutesting)
   * [Ooze](https://github.com/gtramontina/ooze)
   * [go-gremlins](https://github.com/go-gremlins/gremlins)
 * Haskell
