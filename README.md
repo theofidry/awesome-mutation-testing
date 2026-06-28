@@ -105,6 +105,8 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [muter-mutation-testing/muter](https://github.com/muter-mutation-testing/muter)
 * OCaml
   * [mutaml](https://github.com/jmid/mutaml) 
+* Lean
+  * [Mutate.lean](https://github.com/jubnzv/Mutate.lean)
 * Other
   * [agroce/universalmutator](https://github.com/agroce/universalmutator)
   * [squaresLab/boggart](https://github.com/squaresLab/boggart)
