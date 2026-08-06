@@ -80,6 +80,9 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * Python
   * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray)
   * [boxed/mutmut](https://github.com/boxed/mutmut)
+* R
+  * [PRL-PRG/mutator](https://github.com/PRL-PRG/mutator)
+  * [jakubsob/muttest](https://github.com/jakubsob/muttest)
 * Ruby
   * [mbj/mutant](https://github.com/mbj/mutant)
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
