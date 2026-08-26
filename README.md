@@ -71,6 +71,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
 * JavaScript
   * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker)
+  * [T4LEL/testtruth](https://github.com/T4LEL/testtruth) - Scores the same mutants against the old and new test files of a git diff, so a pull request that weakens the tests cannot hide behind green CI (TypeScript/JavaScript).
 * Kotlin
   * [mutant-kraken](https://github.com/JosueMolinaMorales/mutant-kraken)
   * [mutflow](https://github.com/anschnapp/mutflow)
