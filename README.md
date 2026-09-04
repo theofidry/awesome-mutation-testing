@@ -125,7 +125,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 
 ## Publications
 
-Publication titles retain their original spelling. Entries link to locally archived copies, with DOI links included where available.
+Publication titles retain their original spelling. Entries link to DOI or publisher pages or to locally archived copies when redistribution is permitted.
 
 ### Papers
 

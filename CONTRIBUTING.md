@@ -43,6 +43,8 @@ List publications in reverse chronological order and include the authors, public
 
 Prefer a DOI or publisher page. A repository copy of a paper may be added only if redistribution is permitted. Preserve the spelling of the published title, even when it differs from the repository's British English style.
 
+See [Finding research publications](docs/research-publications.md) for suggested scholarly indexes, publisher libraries, open repositories, search terms, and a repeatable discovery process.
+
 ### Articles and posts
 
 List articles and posts in reverse chronological order:
