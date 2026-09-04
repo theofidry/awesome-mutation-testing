@@ -2,32 +2,22 @@
 
 Mutation testing evaluates a test suite by introducing small changes—called mutants—into a program and checking whether the tests detect them.
 
-This repository catalogs mutation-testing tools, publications, talks, tutorials, and other resources. Projects are included for their practical, educational, research, or historical value; inclusion does not imply that a project is actively maintained.
+This repository catalogues mutation-testing tools, publications, talks, tutorials, and other resources. Projects are included for their practical, educational, research, or historical value; inclusion does not imply that a project is actively maintained.
 
 [Discord Invite](https://discord.com/invite/k5JBWU2)
 
 
 ## Contents
 
-- [Start here](#start-here)
 - [Existing libraries](#existing-libraries)
 - [Abandoned libraries](abandoned.md#abandoned-libraries)
-- [Visualization tools](#visualization-tools)
+- [Visualisation tools](#visualisation-tools)
 - [Publications](#publications)
 - [Blogs/Posts](#blogsposts)
 - [Videos](#videos)
 - [Conferences](#conferences)
 - [Examples and practical resources](#examples-and-practical-resources)
 - [Tutorials](#tutorials)
-
-## Start here
-
-New to mutation testing? These resources provide a concise path into the subject:
-
-* **Introduction:** [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
-* **Tutorial:** [Introduction to Mutation Testing with PIT (Java)](https://github.com/sualeh/introduction-to-mutation-testing)
-* **Survey:** [Mutation Testing Advances: An Analysis and Survey](documents/Mutation%20Testing%20Advances:%20An%20Analysis%20and%20Survey%20(2017).pdf)
-* **Practical talk:** [GOTO 2019 • Making Mutants Work for You • Henry Coles](https://www.youtube.com/watch?v=LoFJajoJQ2g)
 
 ## Existing libraries
 
@@ -128,7 +118,7 @@ New to mutation testing? These resources provide a concise path into the subject
   * [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter)
   * [bough](https://github.com/CodeEnPlace/bough)
 
-## Visualization tools
+## Visualisation tools
 
 * [sqrlab/VisMAn](https://github.com/sqrlab/VisMAn)
 
