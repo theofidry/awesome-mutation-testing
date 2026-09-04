@@ -67,7 +67,7 @@ For tutorials, conferences, examples and practical resources, use a descriptive 
 
 ## Project status
 
-Contributors are not expected to monitor or assess whether a project is maintained. Do not classify a project as inactive or abandoned merely because it has not had a recent release or commit.
+Contributors are not expected to monitor or assess whether a project is maintained. Do not classify a project as inactive or archived merely because it has not had a recent release or commit.
 
 When a project's maintainers have explicitly archived it, marked it as discontinued or identified a successor, include that information in the pull request. If its status is unclear, omit a status label. A project's status does not affect whether a relevant resource is eligible for inclusion.
 
