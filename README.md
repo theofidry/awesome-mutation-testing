@@ -1,24 +1,35 @@
 # Awesome Mutation testing [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Mutation testing is the practice of making better code by introducing bugs. As of now this repository is used to keep track of the current mutation testing tools developed and related resources. Its contents and purpose may however evolve depending on the community.
+Mutation testing evaluates a test suite by introducing small changes—called mutants—into a program and checking whether the tests detect them.
+
+This repository catalogs mutation-testing tools, publications, talks, tutorials, and other resources. Projects are included for their practical, educational, research, or historical value; inclusion does not imply that a project is actively maintained.
 
 [Discord Invite](https://discord.com/invite/k5JBWU2)
 
 
-### Contents
+## Contents
 
+- [Start here](#start-here)
 - [Existing libraries](#existing-libraries)
 - [Abandoned libraries](abandoned.md#abandoned-libraries)
-- [Visualization Tool](#visualization-tool)
+- [Visualization tools](#visualization-tools)
 - [Publications](#publications)
 - [Blogs/Posts](#blogsposts)
 - [Videos](#videos)
 - [Conferences](#conferences)
-- [Friendly resources](#friendly-resources)
+- [Examples and practical resources](#examples-and-practical-resources)
 - [Tutorials](#tutorials)
 
+## Start here
 
-### Existing libraries
+New to mutation testing? These resources provide a concise path into the subject:
+
+* **Introduction:** [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
+* **Tutorial:** [Introduction to Mutation Testing with PIT (Java)](https://github.com/sualeh/introduction-to-mutation-testing)
+* **Survey:** [Mutation Testing Advances: An Analysis and Survey](documents/Mutation%20Testing%20Advances:%20An%20Analysis%20and%20Survey%20(2017).pdf)
+* **Practical talk:** [GOTO 2019 • Making Mutants Work for You • Henry Coles](https://www.youtube.com/watch?v=LoFJajoJQ2g)
+
+## Existing libraries
 
 * Alloy
   * [MuAlloy](https://github.com/kaiyuanw/MuAlloy)
@@ -64,7 +75,6 @@ Mutation testing is the practice of making better code by introducing bugs. As o
         * [An Experimental Evaluation of PIT’s Mutation Operators](http://www.diva-portal.org/smash/get/diva2:1161760/FULLTEXT01.pdf)
     * [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
     * [Faster Mutation Testing (in Java)](https://blog.frankel.ch/faster-mutation-testing/)
-        * [Voxxed Athens 2017 :: Mutation Testing to the rescue of your Tests • Nicolas Fränkel](https://www.youtube.com/watch?v=E4UuxVWYCVQ)
   * [aliparsai/LittleDarwin](https://github.com/aliparsai/LittleDarwin)
     * [LittleDarwin: a Feature-Rich and Extensible Mutation Testing Framework for Large and Complex Java Systems](https://www.parsai.net/files/research/LittleDarwin%20a%20Feature-Rich%20and%20Extensible%20Mutation%20Testing%20Framework%20for%20Large%20and%20Complex%20Java%20Systems%20(pre-print).pdf)
   * [metamutator](https://github.com/SpoonLabs/metamutator)
@@ -118,12 +128,12 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter)
   * [bough](https://github.com/CodeEnPlace/bough)
 
-### Visualization Tool
+## Visualization tools
 
 * [sqrlab/VisMAn](https://github.com/sqrlab/VisMAn)
 
 
-### Publications
+## Publications
 
 * [Hervé Robert, Shubho Sengupta (2025) _Mutation-Guided LLM-based Test Generation at Meta_](documents/Mutation-Guided%20LLM-based%20Test%20Generation%20at%20Meta%20(2025).pdf)
 * [Jeongju Sohn, Ezekiel Soremekun, Michail Papadakis (2025) _Latent Mutants: A large-scale study on the Interplay between mutation testing and software evolution_](documents/Latent%20Mutants%20A%20large%20scale%20study%20on%20the%20Interplay%20between%20mutation%20testing%20and%20software%20evolution%20(2025).pdf)
@@ -165,7 +175,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * [Jeff Offutt, Paul Ammann, Lisa (Ling) Liu (2006) _Mutation Testing implements Grammar-Based Testing_](documents/Mutation%20Testing%20implements%20Grammar-Based%20Testing%20(2006).pdf)
 * [Robert Geist, Jeff Offutt (1992) _Estimation and Enhancement of Real-Time Software Reliability through Mutation Analysis_](documents/Estimation%20and%20Enhancement%20of%20Real-Time%20Software%20Reliability%20through%20Mutation%20Analysis%20(1992).pdf)
 
-### Blogs/Posts
+## Blogs/Posts
 
 * [LLMs Are the Key to Mutation Testing and Better Compliance (2025) • Mark Harman (Meta)](https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/)
 * [Revolutionizing software testing: Introducing LLM-powered bug catchers (2025) • Christopher Foster, Abhishek Gulati, Mark Harman, Inna Harper, Ke Mao, Jillian Ritchey, Hervé Robert, Shubho Sengupta (Meta)](https://engineering.fb.com/2025/02/05/security/revolutionizing-software-testing-llm-powered-bug-catchers-meta-ach/)
@@ -173,31 +183,32 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * [Enhancing Test Effectiveness with Mutation Testing (2024) • João Coelho](https://medium.com/@joaovitorcoelho10/enhancing-test-effectiveness-with-mutation-testing-6a714c1dfd01)
 * [Solidity Mutation Testing (2023) • RareSkills](https://rareskills.io/post/solidity-mutation-testing)
 * [Mutation Testing Google Blog Entry (2021) • Goran Petrovic (Google)](https://testing.googleblog.com/2021/04/mutation-testing.html)
+* [A note on Mutation Operators (2017) • Markus Schirp](https://gist.github.com/AlexDenisov/feb0b5ab7c0648441b492a462b0f307f)
+* [Relevant mutants (2024) • Manuel Rivero](https://codesai.com/posts/2024/07/relevant-mutants)
+* [I built a single-compile mutation testing lib for Kotlin which runs inside your normal test suite (2026) • Andreas Schnapp](https://dev.to/5n4p_/i-built-a-single-compile-mutation-testing-lib-for-kotlin-which-runs-inside-your-normal-test-suite-4253)
+
+## Videos
+
+* [Rider Webinar 2023: How To Test C# Unit Tests With Mutation Testing • Stefan Pölz](https://www.youtube.com/watch?v=9BoKyeZapLs)
 * [GOTO 2019 • Making Mutants Work for You • Henry Coles](https://www.youtube.com/watch?v=LoFJajoJQ2g&feature=youtu.be)
 * [Test Automation Research for Industry 2019: Mutation Testing, Opportunities and Pitfalls • Ali Parsai](https://www.youtube.com/watch?v=oebxX3COmtg)
 * [PHPDeveloperDay 2018: Mutation Testing • Théo Fidry](https://www.youtube.com/watch?v=dlVASJ-MbUE&list=PLW4GAs3yDy3IqKoRGGLJY5gG74SnLOQRH)
 * [RailsConf 2017: How to Write Better Code Using Mutation Testing • John Backus](https://www.youtube.com/watch?v=uB7m9T7ymn8)
 * [FOSDEM 2017: Mutation Testing: Leaving the Stone Age • Alex Denisov](https://www.youtube.com/watch?v=YEgiyiICkpQ)
-* [A note on Mutation Operators (2017) • Markus Schirp](https://gist.github.com/AlexDenisov/feb0b5ab7c0648441b492a462b0f307f)
-* [Jfokus 2016: From jUnit to Mutation-Testing • Sven Ruppert](https://www.youtube.com/watch?v=9yG1c9Crnbk)
+* [Voxxed Athens 2017: Mutation Testing to the Rescue of Your Tests • Nicolas Fränkel](https://www.youtube.com/watch?v=E4UuxVWYCVQ)
+* [Jfokus 2016: From JUnit to Mutation Testing • Sven Ruppert](https://www.youtube.com/watch?v=9yG1c9Crnbk)
 * [GOTO 2015: Mutation Testing in Python • Austin Bingham](https://www.youtube.com/watch?v=jwB3Nn4hR1o)
-* [Relevant mutants (2024) • Manuel Rivero](https://codesai.com/posts/2024/07/relevant-mutants)
-* [I built a single-compile mutation testing lib for Kotlin which runs inside your normal test suite (2026) • Andreas Schnapp](https://dev.to/5n4p_/i-built-a-single-compile-mutation-testing-lib-for-kotlin-which-runs-inside-your-normal-test-suite-4253)
 
-### Videos
-
-* [Rider Webinar 2023: How To Test C# Unit Tests With Mutation Testing • Stefan Pölz](https://www.youtube.com/watch?v=9BoKyeZapLs)
-
-### Conferences
+## Conferences
 
 * International Workshop on Mutation Analysis
   * [MUTATION 2018, The 13th International Workshop on Mutation Analysis](https://mutation-workshop.github.io)
 
-### Friendly resources
+## Examples and practical resources
 
 * [atodorov/mutation-testing-in-patterns](https://github.com/atodorov/mutation-testing-in-patterns)
     * Practical examples of software and testing patterns related to mutation testing [Mutation Testing in Patterns](http://mutation-testing-patterns.rtfd.io)
 
-### Tutorials
+## Tutorials
 
 * [Introduction to Mutation Testing with PIT (Java)](https://github.com/sualeh/introduction-to-mutation-testing)
