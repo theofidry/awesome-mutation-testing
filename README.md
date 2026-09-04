@@ -2,7 +2,7 @@
 
 Mutation testing evaluates a test suite by introducing small changes—called mutants—into a program and checking whether the tests detect them.
 
-This repository catalogues mutation-testing tools, publications, talks, tutorials, and other resources. Projects are included for their practical, educational, research, or historical value; inclusion does not imply that a project is actively maintained.
+This repository catalogues mutation-testing tools, publications, talks, tutorials, and other resources. Projects are included for their practical, educational, research or historical value. Inclusion does not imply that a project is actively maintained.
 
 [Discord Invite](https://discord.com/invite/k5JBWU2)
 
