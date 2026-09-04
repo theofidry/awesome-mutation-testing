@@ -10,7 +10,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 ## Contents
 
 - [Existing libraries](#existing-libraries)
-- [Abandoned tools](abandoned.md#abandoned-tools)
+- [Archived tools](archived.md#archived-tools)
 - [Visualisation tools](#visualisation-tools)
 - [Publications](#publications)
 - [Blogs/Posts](#blogsposts)
