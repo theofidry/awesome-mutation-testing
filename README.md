@@ -1,4 +1,4 @@
-# Awesome Mutation testing [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Mutation Testing [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Mutation testing evaluates a test suite by introducing small changes—called mutants—into a program and checking whether the tests detect them.
 
@@ -9,7 +9,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 
 ## Contents
 
-- [Existing libraries](#existing-libraries)
+- [Tools](#tools)
 - [Archived tools](archived.md#archived-tools)
 - [Visualisation tools](#visualisation-tools)
 - [Publications](#publications)
@@ -19,19 +19,19 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 - [Examples and practical resources](#examples-and-practical-resources)
 - [Tutorials](#tutorials)
 
-## Existing libraries
+## Tools
 
 * Alloy
   * [MuAlloy](https://github.com/kaiyuanw/MuAlloy)
     * [MuAlloy papers](https://github.com/kaiyuanw/MuAlloy#publications)
 * C/C++
   * [llvm-mutate](https://eschulte.github.io/llvm-mutate/) - An LLVM-based mutation tool for C and C++.
-  * [Frama-C plugin](https://github.com/gpetiot/Frama-C-Mutation/) - A Frama-C plug-in for generating mutant C programs.
-  * [mull-project/mull](https://github.com/mull-project/mull) - An LLVM-based mutation-testing and fault-injection tool for C and C++.
-  * [mutate_cpp](https://github.com/nlohmann/mutate_cpp)
+  * [Frama-C Mutation](https://github.com/gpetiot/Frama-C-Mutation/) - A Frama-C plug-in for generating mutant C programs.
+  * [Mull](https://github.com/mull-project/mull) - An LLVM-based mutation-testing and fault-injection tool for C and C++.
+  * [Mutate++](https://github.com/nlohmann/mutate_cpp)
   * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki) - A mutation system for applying class-level operators to C++ programs.
     * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
-  * [accmut](https://github.com/wangbo15/accmut) - An LLVM IR-based framework for accelerating mutation testing.
+  * [AccMut](https://github.com/wangbo15/accmut) - An LLVM IR-based framework for accelerating mutation testing.
     * [Faster mutation analysis via equivalence modulo states](http://sei.pku.edu.cn/%7Exiongyf04/papers/ISSTA17.pdf)
   * [MUSIC](https://github.com/swtv-kaist/MUSIC) - A configurable and extensible mutation-analysis tool for C programs.
     * [MUSIC: Mutation Analysis Tool with High Configurability and Extensibility](http://swtv.kaist.ac.kr/publications/music-mutation18.pdf)
@@ -40,8 +40,8 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
     * [SRCIROR: A Toolset for Mutation Testing of C Source Code and LLVM Intermediate Representation](http://mir.cs.illinois.edu/farah/publications/ase18_srciror.pdf)
   * [MART](https://github.com/thierry-tct/mart) - A configurable mutation-testing framework based on LLVM.
 * C#
-  * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) - A mutation-testing tool for .NET Framework and .NET.
-  * [ComparetheMarket/fettle](https://github.com/ComparetheMarket/fettle) - An experimental mutation-testing tool for C#.
+  * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - A mutation-testing tool for .NET Framework and .NET.
+  * [Fettle](https://github.com/ComparetheMarket/fettle) - An experimental mutation-testing tool for C#.
   * [Testura.Mutation](https://github.com/Testura/Testura.Mutation)
   * [Faultify](https://github.com/Faultify/Faultify) - A bytecode-level mutation-testing tool for .NET.
 * Clojure
@@ -49,78 +49,78 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 * Crystal
   * [crytic](https://github.com/hanneskaeufler/crytic)
 * Elixir
-  * [JordiPolo/mutation](https://github.com/JordiPolo/mutation)
+  * [Mutation](https://github.com/JordiPolo/mutation)
 * Erlang
-  * [parsifal-47/muterl](https://github.com/parsifal-47/muterl)
+  * [Muterl](https://github.com/parsifal-47/muterl)
 * Go
-  * [jonbaldie/go-mutesting](https://github.com/jonbaldie/go-mutesting)
+  * [go-mutesting](https://github.com/jonbaldie/go-mutesting)
   * [Ooze](https://github.com/gtramontina/ooze)
-  * [go-gremlins](https://github.com/go-gremlins/gremlins)
+  * [Gremlins](https://github.com/go-gremlins/gremlins)
 * Haskell
-  * [mucheck](https://hackage.haskell.org/package/MuCheck)
-  * [rudymatela/fitspec](https://github.com/rudymatela/fitspec) - A tool that uses mutations to refine properties for testing Haskell programs.
+  * [MuCheck](https://hackage.haskell.org/package/MuCheck)
+  * [FitSpec](https://github.com/rudymatela/fitspec) - A tool that uses mutations to refine properties for testing Haskell programs.
 * Java/JVM
-  * [hcoles/pitest](https://github.com/hcoles/pitest) - A bytecode-level mutation-testing system for the JVM.
-    * [PIT : A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
+  * [PIT](https://github.com/hcoles/pitest) - A bytecode-level mutation-testing system for the JVM.
+    * [PIT: A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
     * [An Experimental Evaluation of PIT’s Mutation Operators](http://www.diva-portal.org/smash/get/diva2:1161760/FULLTEXT01.pdf)
     * [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
     * [Faster Mutation Testing (in Java)](https://blog.frankel.ch/faster-mutation-testing/)
-  * [aliparsai/LittleDarwin](https://github.com/aliparsai/LittleDarwin) - A Java mutation-testing framework implemented in Python.
+  * [LittleDarwin](https://github.com/aliparsai/LittleDarwin) - A Java mutation-testing framework implemented in Python.
     * [LittleDarwin: a Feature-Rich and Extensible Mutation Testing Framework for Large and Complex Java Systems](https://www.parsai.net/files/research/LittleDarwin%20a%20Feature-Rich%20and%20Extensible%20Mutation%20Testing%20Framework%20for%20Large%20and%20Complex%20Java%20Systems%20(pre-print).pdf)
   * [metamutator](https://github.com/SpoonLabs/metamutator) - A Java mutation engine based on mutant schemata and metaprogramming.
   * [Major](http://mutation-testing.org) - A compiler-integrated mutation-testing system for Java.
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
 * JavaScript
-  * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker) - A mutation-testing framework for JavaScript and TypeScript.
-  * [T4LEL/testtruth](https://github.com/T4LEL/testtruth) - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
+  * [StrykerJS](https://github.com/stryker-mutator/stryker) - A mutation-testing framework for JavaScript and TypeScript.
+  * [testtruth](https://github.com/T4LEL/testtruth) - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
 * Kotlin
-  * [mutant-kraken](https://github.com/JosueMolinaMorales/mutant-kraken)
+  * [Mutant Kraken](https://github.com/JosueMolinaMorales/mutant-kraken)
   * [mutflow](https://github.com/anschnapp/mutflow) - A Kotlin library that performs mutation testing within the test suite after a single compilation.
 * PHP
-  * [infection/infection](https://github.com/infection)
-  * [PEST PHP](https://pestphp.com/docs/mutation-testing) - Mutation testing integrated into the Pest PHP testing framework.
+  * [Infection](https://github.com/infection)
+  * [Pest PHP](https://pestphp.com/docs/mutation-testing) - Mutation testing integrated into the Pest PHP testing framework.
 * Python
-  * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray)
-  * [boxed/mutmut](https://github.com/boxed/mutmut)
+  * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray)
+  * [mutmut](https://github.com/boxed/mutmut)
 * R
-  * [PRL-PRG/mutator](https://github.com/PRL-PRG/mutator)
-  * [jakubsob/muttest](https://github.com/jakubsob/muttest) - A mutation-testing tool for assessing test assertions in R.
+  * [mutator](https://github.com/PRL-PRG/mutator)
+  * [muttest](https://github.com/jakubsob/muttest) - A mutation-testing tool for assessing test assertions in R.
 * Ruby
-  * [mbj/mutant](https://github.com/mbj/mutant)
+  * [Mutant](https://github.com/mbj/mutant)
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
-  * [backus/mutest](https://github.com/backus/mutest) - A fork of Mutant with additional mutations and inline disable comments.
+  * [mutest](https://github.com/backus/mutest) - A fork of Mutant with additional mutations and inline disable comments.
 * Rust
-  * [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - A Cargo-based mutation-testing tool for Rust.
-  * [llogiq/mutagen](https://github.com/llogiq/mutagen) - A mutation-testing plug-in for Rust.
+  * [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - A Cargo-based mutation-testing tool for Rust.
+  * [mutagen](https://github.com/llogiq/mutagen) - A mutation-testing plug-in for Rust.
 * Scala
-  * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu)
-  * [stryker4s](https://stryker-mutator.io/stryker4s/)
+  * [Scalamu](https://github.com/sugakandrey/scalamu)
+  * [Stryker4s](https://stryker-mutator.io/stryker4s/)
 * Smalltalk
-  * [pavel-krivanek/mutalk](https://github.com/pavel-krivanek/mutalk) - A mutation-testing tool for Pharo Smalltalk.
+  * [MuTalk](https://github.com/pavel-krivanek/mutalk) - A mutation-testing tool for Pharo Smalltalk.
 * Simulink
   * [MUT4SLX](https://github.com/haliliceylan/MUT4SLX) - A model-based mutation-testing framework for Simulink and Stateflow models in MATLAB.
     * [Reproduction Package](https://github.com/haliliceylan/MUT4SLX/blob/main/Reproduction-Package-ASE-2023.md)
-    * [MUT4SLX: Fast mutant generation for simulink](https://ieeexplore.ieee.org/abstract/document/10298490)
+    * [MUT4SLX: Fast mutant generation for Simulink](https://ieeexplore.ieee.org/abstract/document/10298490)
     * [MUT4SLX: Extensions for Mutation Testing of Stateflow Models](https://ieeexplore.ieee.org/abstract/document/10621727)
 * Solidity / Smart Contracts
-  * [Certora/gambit](https://github.com/Certora/gambit) - A mutation generator for improving specifications and test suites for Solidity contracts.
-  * [RareSkills/vertigo-rs](https://github.com/RareSkills/vertigo-rs) - A mutation-testing tool for Ethereum smart contracts using Foundry.
-  * [JoranHonig/vertigo](https://github.com/JoranHonig/vertigo)
+  * [Gambit](https://github.com/Certora/gambit) - A mutation generator for improving specifications and test suites for Solidity contracts.
+  * [vertigo-rs](https://github.com/RareSkills/vertigo-rs) - A mutation-testing tool for Ethereum smart contracts using Foundry.
+  * [vertigo](https://github.com/JoranHonig/vertigo)
 * Swift
-  * [muter-mutation-testing/muter](https://github.com/muter-mutation-testing/muter)
+  * [Muter](https://github.com/muter-mutation-testing/muter)
 * OCaml
-  * [mutaml](https://github.com/jmid/mutaml)
+  * [Mutaml](https://github.com/jmid/mutaml)
 * Lean
   * [Mutate.lean](https://github.com/jubnzv/Mutate.lean)
 * Other
-  * [agroce/universalmutator](https://github.com/agroce/universalmutator) - A regular-expression-based mutation tool for source code in multiple languages.
-  * [squaresLab/boggart](https://github.com/squaresLab/boggart) - A lightweight, extensible, language-independent mutation-testing framework.
-  * [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter) - An open-source, language-agnostic mutation-testing tool.
-  * [bough](https://github.com/CodeEnPlace/bough) - A polyglot incremental mutation-testing tool.
+  * [Universal Mutator](https://github.com/agroce/universalmutator) - A regular-expression-based mutation tool for source code in multiple languages.
+  * [boggart](https://github.com/squaresLab/boggart) - A lightweight, extensible, language-independent mutation-testing framework.
+  * [Mutahunter](https://github.com/codeintegrity-ai/mutahunter) - An open-source, language-agnostic mutation-testing tool.
+  * [Bough](https://github.com/CodeEnPlace/bough) - A polyglot incremental mutation-testing tool.
 
 ## Visualisation tools
 
-* [sqrlab/VisMAn](https://github.com/sqrlab/VisMAn)
+* [VisMAn](https://github.com/sqrlab/VisMAn)
 
 
 ## Publications
