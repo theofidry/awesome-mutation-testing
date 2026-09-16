@@ -83,6 +83,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 * Python
   * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray)
   * [mutmut](https://github.com/boxed/mutmut)
+  * [gatecheck](https://github.com/simin-yuan/self-auditing-agent) - A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.
 * R
   * [mutator](https://github.com/PRL-PRG/mutator)
   * [muttest](https://github.com/jakubsob/muttest) - A mutation-testing tool for assessing test assertions in R.
