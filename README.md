@@ -11,7 +11,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 
 - [Tools](#tools)
 - [Archived tools](archived.md#archived-tools)
-- [Visualisation tools](#visualisation-tools)
+- [Related tools](#related-tools)
 - [Publications](#publications)
 - [Blogs/Posts](#blogsposts)
 - [Videos](#videos)
@@ -119,9 +119,12 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [Mutahunter](https://github.com/codeintegrity-ai/mutahunter) - An open-source, language-agnostic mutation-testing tool.
   * [Bough](https://github.com/CodeEnPlace/bough) - A polyglot incremental mutation-testing tool.
 
-## Visualisation tools
+## Related tools
 
-* [VisMAn](https://github.com/sqrlab/VisMAn)
+Tools that are not mutation-testing tools themselves, but apply the same loop to a different subject.
+
+* [VisMAn](https://github.com/sqrlab/VisMAn) - A visualisation tool for mutation-testing results.
+* [gatecheck](https://github.com/simin-yuan/self-auditing-agent) - A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.
 
 
 ## Publications
