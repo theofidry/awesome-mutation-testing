@@ -124,7 +124,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 Tools that are not mutation-testing tools themselves, but apply the same loop to a different subject.
 
 * [VisMAn](https://github.com/sqrlab/VisMAn) - A visualisation tool for mutation-testing results.
-* [gatecheck](https://github.com/simin-yuan/self-auditing-agent) - A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.
+* [greencheck](https://github.com/simin-yuan/greencheck) - A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.
 
 
 ## Publications
