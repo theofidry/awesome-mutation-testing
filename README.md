@@ -307,6 +307,7 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 
 ## Blogs/Posts
 
+* [Mutation Testing Found a Cross-Account Data Leak in Our Sync Backend (2026) • Errant Solutions](https://errant.solutions/blog/ssherpa-mutation-testing.html)
 * [Who Mutates the Mutator? (2026) • Aleksei Gagarin (Testo)](https://php-testo.github.io/blog/self-mutation)
 * [Infection + Testo (2026) • Aleksei Gagarin (Testo)](https://php-testo.github.io/blog/infection-debut)
 * [Mutation Testing (2026) • Aleksei Gagarin (Testo)](https://php-testo.github.io/docs/theory/mutation-testing)
