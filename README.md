@@ -57,6 +57,8 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [go-mutesting](https://github.com/jonbaldie/go-mutesting)
   * [Ooze](https://github.com/gtramontina/ooze)
   * [Gremlins](https://github.com/go-gremlins/gremlins)
+* Groovy
+  * [Arcmutate](https://docs.arcmutate.com/docs/groovy.html) - Commercial extension to PIT that adds support for Groovy Lang
 * Haskell
   * [MuCheck](https://hackage.haskell.org/package/MuCheck)
   * [FitSpec](https://github.com/rudymatela/fitspec) - A tool that uses mutations to refine properties for testing Haskell programs.
@@ -71,12 +73,14 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [metamutator](https://github.com/SpoonLabs/metamutator) - A Java mutation engine based on mutant schemata and metaprogramming.
   * [Major](http://mutation-testing.org) - A compiler-integrated mutation-testing system for Java.
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
+  * [Arcmutate](https://www.arcmutate.com) Commerical extensions to PIT included extended Java operators 
 * JavaScript
   * [StrykerJS](https://github.com/stryker-mutator/stryker) - A mutation-testing framework for JavaScript and TypeScript.
   * [testtruth](https://github.com/T4LEL/testtruth) - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
 * Kotlin
   * [Mutant Kraken](https://github.com/JosueMolinaMorales/mutant-kraken)
   * [mutflow](https://github.com/anschnapp/mutflow) - A Kotlin library that performs mutation testing within the test suite after a single compilation.
+  * [Arcmutate](https://docs.arcmutate.com/docs/kotlin.html) - Commercial extension to PIT that adds Kotlin support
 * PHP
   * [Infection](https://github.com/infection)
   * [Pest PHP](https://pestphp.com/docs/mutation-testing) - Mutation testing integrated into the Pest PHP testing framework.
