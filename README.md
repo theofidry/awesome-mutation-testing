@@ -307,6 +307,8 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 
 ### Course material
 
+* [Nico Jansen, Jan-Jelle Kester (2026) _Kill all mutants with Stryker_ — University of Amsterdam guest lecture slides and lab](https://github.com/nicojs/presentations/tree/master/uva-2026)
+* [Nico Jansen, Rinse van Hees (2024) _Kill all mutants with Stryker_ — University of Twente guest lecture slides](https://github.com/nicojs/presentations/tree/master/tu-twente-2024)
 * [Gordon Fraser (2010) _Mutation Testing_ — university course slides](documents/Mutation%20Testing%20(2010).pdf)
 
 ## Blogs/Posts
@@ -342,6 +344,7 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 ## Conference presentations
 
 * [Speaker Deck 2026: Would Your Tests Catch This Bug? A Mutation Testing Story • Szymon Fiedler](https://speakerdeck.com/szymonfiedler/would-your-tests-catch-this-bug-a-mutation-testing-story)
+* [FOSDEM 2024: Who's testing the tests? Mutation testing with StrykerJS • Nico Jansen](https://github.com/nicojs/presentations/tree/master/fosdem-2024)
 * [RubyConf 2024: The Mutation Game — Cracking the Enigma of Mutation Testing • Tyler Lemburg](https://www.youtube.com/watch?v=WqrL5w0WP0o)
 * [NDC TechTown 2024: Mutation Testing in Python with Cosmic Ray • Austin Bingham](https://www.youtube.com/watch?v=HBqhjLaZejA)
 * [PHP UK Conference 2024: The Absolute Beginner’s Guide to Mutation Testing • Neal Brooks](https://www.youtube.com/watch?v=h1fIXGb06h8)
@@ -350,6 +353,7 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 * [ACCU 2022: Kill All Mutants! Intro to Mutation Testing • Dave Aronson](https://www.youtube.com/watch?v=u78zWfkCZ1Q)
 * [Code BEAM Europe 2022: Kill All Mutants! Intro to Mutation Testing • Dave Aronson](https://www.youtube.com/watch?v=30ydZKPtVn4)
 * [ICCQ 2022: Quasi-Dominators and Random Selection in Mutation Testing • Rowland Pitts](https://www.youtube.com/watch?v=XDXKAs6s8Eo)
+* [GitHub 2021: Development with Bicycles for Brains • Markus Schirp](https://github.com/mbj/developers-bicycles)
 * [Devoxx Poland 2021: Mutation Testing — Too Good to Be True? • Piotr Kubowicz](https://www.youtube.com/watch?v=hxFMqyn4U5A)
 * [Laracon EU 2021: Mutation Testing with PHP • Jeroen Groenendijk](https://www.youtube.com/watch?v=OukNLda4TxA)
 * [PHPKonf 2021: Mutation Testing in PHP • Maks Rafałko](https://www.youtube.com/watch?v=aDdXTY372Vo)
@@ -370,6 +374,7 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 * [Speaker Deck 2018: Mutation Testing at PHPDeveloperDay • Théo Fidry](https://speakerdeck.com/theofidry/mutation-testing-phpdeveloperday)
 * [Symfony User Group Osnabrück: Mutation Testing with Symfony](https://www.youtube.com/watch?v=CUzjQ-BOd6w)
 * [Speaker Deck 2014: Mutation Testing with Mutant • Erik Berlin](https://speakerdeck.com/sferik/mutation-testing-with-mutant)
+* [Mutation testing: a practitioners perspective • Henry Coles](https://github.com/hcoles/slides/blob/master/slides.pdf)
 
 ## Conferences
 
@@ -383,4 +388,5 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 
 ## Tutorials
 
+* [Mutation Testing Workshop with mutmut (Python)](https://github.com/boxed/mutation-testing-workshop)
 * [Introduction to Mutation Testing with PIT (Java)](https://github.com/sualeh/introduction-to-mutation-testing)
