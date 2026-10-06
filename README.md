@@ -122,6 +122,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [boggart](https://github.com/squaresLab/boggart) - A lightweight, extensible, language-independent mutation-testing framework.
   * [Mutahunter](https://github.com/codeintegrity-ai/mutahunter) - An open-source, language-agnostic mutation-testing tool.
   * [Bough](https://github.com/CodeEnPlace/bough) - A polyglot incremental mutation-testing tool.
+  * [mutagate](https://github.com/keyboardsamurai/mutagate) - An agent skill that runs PIT, StrykerJS, mutmut, gomutants or Stryker.NET on the code a coding agent's new test covers, and blocks the agent's task completion while the mutation score is below a threshold.
 
 ## Related tools
 
