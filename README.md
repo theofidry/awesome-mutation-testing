@@ -130,6 +130,7 @@ Tools that are not mutation-testing tools themselves, but apply the same loop to
 * [VisMAn](https://github.com/sqrlab/VisMAn) - A visualisation tool for mutation-testing results.
 * [greencheck](https://github.com/simin-yuan/greencheck) - A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.
 * [Supercov](https://github.com/supercorp-ai/supercov) - A coverage tool that estimates, test by test, which executed statements a test would catch if changed, by asking a decision model instead of running mutants. Needs a TypeSafe API key.
+* [mutagate](https://github.com/keyboardsamurai/mutagate) - An agent skill that runs PIT, StrykerJS, mutmut, gomutants or Stryker.NET on the code a coding agent's new test covers, and blocks the agent's task completion while the mutation score is below a threshold.
 
 
 ## Publications
