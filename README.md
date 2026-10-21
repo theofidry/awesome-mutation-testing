@@ -58,6 +58,9 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [Ooze](https://github.com/gtramontina/ooze)
   * [Gremlins](https://github.com/go-gremlins/gremlins)
   * [gomutants](https://github.com/gomutants/gomutants)
+  * [Gooze](https://github.com/gooze-dev/gooze)
+    * [Gooze Language Server](https://github.com/gooze-dev/goozels)
+    * [Gooze Claude Code plugin](https://gooze.dev/docs/claude-code)
 * Groovy
   * [Arcmutate](https://docs.arcmutate.com/docs/groovy.html) - Commercial extension to PIT that adds support for Groovy Lang
 * Haskell
