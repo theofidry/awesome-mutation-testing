@@ -78,6 +78,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [Major](http://mutation-testing.org) - A compiler-integrated mutation-testing system for Java.
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
   * [Arcmutate](https://www.arcmutate.com) Commerical extensions to PIT included extended Java operators 
+  * [Pitest Badge](https://github.com/rossdrew/PitestCI) - A GitHub Action that publishes PIT's mutation score as a README badge and, optionally, its HTML report on GitHub Pages.
 * JavaScript
   * [StrykerJS](https://github.com/stryker-mutator/stryker) - A mutation-testing framework for JavaScript and TypeScript.
   * [testtruth](https://github.com/T4LEL/testtruth) - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
