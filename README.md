@@ -138,7 +138,7 @@ Tools that are not mutation-testing tools themselves, but apply the same loop to
 * [Supercov](https://github.com/supercorp-ai/supercov) - A coverage tool that estimates, test by test, which executed statements a test would catch if changed, by asking a decision model instead of running mutants. Needs a TypeSafe API key.
 * [mutagate](https://github.com/keyboardsamurai/mutagate) - An agent skill that runs PIT, StrykerJS, mutmut, gomutants or Stryker.NET on the code a coding agent's new test covers, and blocks the agent's task completion while the mutation score is below a threshold.
 * [delivery-verifier](https://github.com/clean99/delivery-verifier) - Checks whether a regression test fails with the actual code change reverted and passes with it applied, using separate Git worktrees rather than generated mutants. CLI and GitHub Action for pytest, unittest, node:test and Vitest.
-
+* [Bite](https://github.com/connabyss/bite) - Takes each recent bug-fix commit back out of a copy of the project and runs its tests, reporting which fixes no test notices. Works with pytest, npm test, cargo, go, dotnet, Maven and Gradle.
 
 ## Publications
 
