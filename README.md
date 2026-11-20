@@ -82,6 +82,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 * JavaScript
   * [StrykerJS](https://github.com/stryker-mutator/stryker) - A mutation-testing framework for JavaScript and TypeScript.
   * [testtruth](https://github.com/T4LEL/testtruth) - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
+  * [oxmutate](https://github.com/ofri-peretz/burgee/tree/main/packages/oxmutate) - A mutation-testing tool for JavaScript and TypeScript on the oxc engine that runs mutants inside the project's own Vitest and reads an existing Stryker configuration.
 * Kotlin
   * [Mutant Kraken](https://github.com/JosueMolinaMorales/mutant-kraken)
   * [mutflow](https://github.com/anschnapp/mutflow) - A Kotlin library that performs mutation testing within the test suite after a single compilation.
