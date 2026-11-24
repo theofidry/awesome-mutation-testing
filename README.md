@@ -93,6 +93,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 * Python
   * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray)
   * [mutmut](https://github.com/boxed/mutmut)
+  * [qikly](https://github.com/gal-a/qikly) - Plants one fault at a time in Python code and reports which ones the test suite misses, each as a question about the code's intended behaviour.
 * R
   * [mutator](https://github.com/PRL-PRG/mutator)
   * [muttest](https://github.com/jakubsob/muttest) - A mutation-testing tool for assessing test assertions in R.
